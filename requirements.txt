@@ -1,0 +1,8 @@
+numpy==2.5.3
+openai==3.22.0
+python-dotenv==1.2.3
+rdflib==7.6.0
+refine==0.14.1
+Requests==2.34.2
+scikit_learn==1.9.1
+tqdm==4.70.0

@@ -29,6 +29,13 @@ CoMO was evaluated using complementary expert- and corpus-based approaches. Expe
 [^2]: Li, H. et al. BSO-AD: An Ontology for Representing and Harmonizing Behavioral Social Knowledge in ADRD. 2026.03.30.26349756 Preprint at https://doi.org/10.64898/2026.03.30.26349756 (2026). 
 
 # A Quick Start
+Create and activate a Python environment:
+
+```bash
+conda create -n como_env python=3.10
+conda activate como_env
+pip install -r requirements.txt
+```
 
 # Citation
 

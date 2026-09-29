@@ -1,0 +1,117 @@
+{
+  "proposed_from": "proposed_skeleton.json",
+  "overall": {
+    "n_proposed": 41,
+    "n_accepted": 25,
+    "n_rejected": 16,
+    "n_omitted": 23,
+    "acceptance_rate": 0.61,
+    "omission_rate": 0.479
+  },
+  "per_branch": {
+    "Physical_Intervention": {
+      "n_proposed": 17,
+      "n_accepted": 13,
+      "n_rejected": 4,
+      "n_omitted": 6,
+      "acceptance_rate": 0.765,
+      "accepted": [
+        "Bodywork_Therapy",
+        "Cupping_Therapy",
+        "Dry_Needling",
+        "Ear_Candle_Therapy",
+        "Energy_Based_Therapy",
+        "Hydrotherapy",
+        "Mesotherapy",
+        "Movement_Therapy",
+        "Percutaneous_Collagen_Induction",
+        "Prolotherapy",
+        "Sensory_Stimulation_Therapy",
+        "Shirodhara_Therapy",
+        "Spa_Therapy"
+      ],
+      "rejected": [
+        "Acupoint_Stimulation",
+        "Environmental_Therapy",
+        "Radiesthesia",
+        "Thermal_Therapy"
+      ],
+      "omitted": [
+        "Acupuncture",
+        "Acustimulation_Therapy",
+        "Auriculotherapy",
+        "Colon_Irrigation",
+        "Mind–body_Therapy",
+        "Moxibustion"
+      ]
+    },
+    "Psychological_Intervention": {
+      "n_proposed": 9,
+      "n_accepted": 8,
+      "n_rejected": 1,
+      "n_omitted": 8,
+      "acceptance_rate": 0.889,
+      "accepted": [
+        "Animal_Assisted_Therapy",
+        "Counseling",
+        "Mind–body_Therapy",
+        "Positive_Thinking",
+        "Psychoeducational_Intervention",
+        "Psychotherapy",
+        "Spiritual_Therapy",
+        "Support_Group_Therapy"
+      ],
+      "rejected": [
+        "Distance_Healing"
+      ],
+      "omitted": [
+        "Focusing_Therapy",
+        "Hypnotherapy",
+        "Laughter_Therapy",
+        "Meditation_Therapy",
+        "Mindfulness_Based_Intervention",
+        "Neurolinguistic_Programming",
+        "Play_Therapy",
+        "Stress_Management_Therapy"
+      ]
+    },
+    "Mind-body_Therapy": {
+      "n_proposed": 15,
+      "n_accepted": 4,
+      "n_rejected": 11,
+      "n_omitted": 9,
+      "acceptance_rate": 0.267,
+      "accepted": [
+        "Body_Psychotherapy",
+        "Mind_Body_Energy_Based_Therapy",
+        "Mind_Body_Movement_Therapy",
+        "Sophrology"
+      ],
+      "rejected": [
+        "Active_Music_Therapy",
+        "Buteyko_Breathing_Training",
+        "Chinese_Calligraphy_Therapy",
+        "Clay_Art_Therapy",
+        "Deep_Breathing",
+        "Dolphin_Assisted_Therapy",
+        "Electromyography_Biofeedback",
+        "Equine_Assisted_Therapy",
+        "Music_Listening_Intervention",
+        "Nature_Therapy",
+        "Progressive_Muscle_Relaxation"
+      ],
+      "omitted": [
+        "Biofeedback",
+        "Breathing_Exercise",
+        "Environmental_Therapy",
+        "Expressive_Therapy",
+        "Horticultural_Therapy",
+        "Mindful_Awareness_in_Body_Oriented_Therapy",
+        "Movement_Education",
+        "Relaxation_Therapy",
+        "Reminiscence_Therapy"
+      ]
+    }
+  },
+  "note": "owl L2 as expert skeleton; acceptance rate is a lower bound"
+}

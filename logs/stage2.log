@@ -1,0 +1,32 @@
+nohup: ignoring input
+=== STAGE propose: anchor + skeleton proposal (then PAUSE) ===
+  using LLM route result from l1_assignment.json (not GT)
+    branch sizes: Physical=345, Psychological=204, Mind-body=72
+propose branches:   0%|          | 0/3 [00:00<?, ?branch/s]propose branches:  33%|███▎      | 1/3 [03:32<07:05, 212.82s/branch]propose branches:  67%|██████▋   | 2/3 [05:48<02:47, 167.68s/branch]propose branches: 100%|██████████| 3/3 [07:12<00:00, 129.26s/branch]propose branches: 100%|██████████| 3/3 [07:12<00:00, 144.15s/branch]
+    branch Physical_Intervention: 273 concepts, 5 batch(es), 1 run(s) -> 6 LLM calls expected
+      [propose run1/1 batch1/5]  60 concepts,  1538 chars ->  8 raw /  8 valid parents  (7.9s)
+      [propose run1/1 batch2/5]  60 concepts,  1684 chars -> 10 raw / 10 valid parents  (13.9s)
+      [propose run1/1 batch3/5]  60 concepts,  1767 chars ->  8 raw /  8 valid parents  (48.9s)
+      [propose run1/1 batch4/5]  60 concepts,  1454 chars ->  2 raw /  2 valid parents  (23.4s)
+      [propose run1/1 batch5/5]  33 concepts,   777 chars -> 18 raw / 18 valid parents  (40.4s)
+      [dedup] 46 candidates -> 17 kept (78.3s)
+        dropped: Silicone_Oil_Massage, Vibration_Therapy, Craniosacral_Therapy, Solar_Term_Moxibustion, Trager_Therapy, Chair_Massage, Canine_Assisted_Ambulation, Ultrasonic_Therapy, Acu_Moxibustion, Acustimulation_Therapy ...
+  Physical_Intervention          -> 17 L2 parents (from 273 concepts, LLM-direct x1)
+    branch Psychological_Intervention: 132 concepts, 3 batch(es), 1 run(s) -> 4 LLM calls expected
+      [propose run1/1 batch1/3]  60 concepts,  1451 chars ->  7 raw /  7 valid parents  (66.7s)
+      [propose run1/1 batch2/3]  60 concepts,  1819 chars -> 11 raw / 11 valid parents  (18.9s)
+      [propose run1/1 batch3/3]  12 concepts,   376 chars ->  6 raw /  6 valid parents  (5.5s)
+      [dedup] 24 candidates -> 9 kept (45.0s)
+        dropped: Focusing_Therapy, Reminiscence_Therapy, Play_Therapy, Neurolinguistic_Programming, Cognitive_Behavioral_Therapy, Cognitive_Hypnotherapy, Meditation_Therapy, Expressive_Therapy, Mindfulness_Based_Intervention, Imagery_Psychotherapy ...
+  Psychological_Intervention     -> 9 L2 parents (from 132 concepts, LLM-direct x1)
+    branch Mind-body_Therapy: 72 concepts, 1 batch(es), 1 run(s) -> 2 LLM calls expected
+      [propose run1/1 batch1/1]  72 concepts,  1726 chars -> 17 raw / 17 valid parents  (69.2s)
+      [dedup] 17 candidates -> 15 kept (14.4s)
+        dropped: Horticultural_Therapy, Mindful_Awareness_in_Body_Oriented_Therapy
+  Mind-body_Therapy              -> 15 L2 parents (from 72 concepts, LLM-direct x1)
+
+wrote proposed_skeleton.json + PNGs.
+PAUSED for expert review. Next:
+  1. Expert reviews proposed_skeleton.json and the PNGs.
+  2. Produce approved_skeleton.json (confirmed skeleton; parents = concept labels). Bootstrap a draft with:  --stage emit-approved
+  3. Run:  python construction_agent.py --stage build ...

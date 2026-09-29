@@ -1,0 +1,197 @@
+{
+  "level_built": 2,
+  "l2_parents": [
+    {
+      "parent": "Acupuncture",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Acustimulation_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Auriculotherapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Bodywork_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Colon_Irrigation",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Cupping_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Dry_Needling",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Ear_Candle_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Energy_Based_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Hydrotherapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Mesotherapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Mind–body_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Movement_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Moxibustion",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Percutaneous_Collagen_Induction",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Prolotherapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Sensory_Stimulation_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Shirodhara_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Spa_Therapy",
+      "l1": "Physical_Intervention"
+    },
+    {
+      "parent": "Animal_Assisted_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Counseling",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Focusing_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Hypnotherapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Laughter_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Meditation_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Mindfulness_Based_Intervention",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Mind–body_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Neurolinguistic_Programming",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Play_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Positive_Thinking",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Psychoeducational_Intervention",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Psychotherapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Spiritual_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Stress_Management_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Support_Group_Therapy",
+      "l1": "Psychological_Intervention"
+    },
+    {
+      "parent": "Biofeedback",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Body_Psychotherapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Breathing_Exercise",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Environmental_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Expressive_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Horticultural_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Mind_Body_Energy_Based_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Mind_Body_Movement_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Mindful_Awareness_in_Body_Oriented_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Movement_Education",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Relaxation_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Reminiscence_Therapy",
+      "l1": "Mind-body_Therapy"
+    },
+    {
+      "parent": "Sophrology",
+      "l1": "Mind-body_Therapy"
+    }
+  ]
+}

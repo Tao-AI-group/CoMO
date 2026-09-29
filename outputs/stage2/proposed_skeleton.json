@@ -1,0 +1,122 @@
+{
+  "level_built": 2,
+  "note": "L1 = NCCIH (given). This proposes the L2 skeleton under each L1 branch.",
+  "l1_source": "llm_route",
+  "branches": {
+    "Physical_Intervention": {
+      "branch": "Physical_Intervention",
+      "n_concepts": 273,
+      "runs": 1,
+      "n_batches": 5,
+      "l2_parents": [
+        "Cupping_Therapy",
+        "Energy_Based_Therapy",
+        "Percutaneous_Collagen_Induction",
+        "Dry_Needling",
+        "Thermal_Therapy",
+        "Hydrotherapy",
+        "Shirodhara_Therapy",
+        "Sensory_Stimulation_Therapy",
+        "Acupoint_Stimulation",
+        "Spa_Therapy",
+        "Ear_Candle_Therapy",
+        "Radiesthesia",
+        "Bodywork_Therapy",
+        "Mesotherapy",
+        "Prolotherapy",
+        "Environmental_Therapy",
+        "Movement_Therapy"
+      ],
+      "n_parents": 17,
+      "parent_confidence": {
+        "Cupping_Therapy": 1.0,
+        "Energy_Based_Therapy": 1.0,
+        "Percutaneous_Collagen_Induction": 1.0,
+        "Dry_Needling": 1.0,
+        "Thermal_Therapy": 1.0,
+        "Hydrotherapy": 1.0,
+        "Shirodhara_Therapy": 1.0,
+        "Sensory_Stimulation_Therapy": 1.0,
+        "Acupoint_Stimulation": 1.0,
+        "Spa_Therapy": 1.0,
+        "Ear_Candle_Therapy": 1.0,
+        "Radiesthesia": 1.0,
+        "Bodywork_Therapy": 1.0,
+        "Mesotherapy": 1.0,
+        "Prolotherapy": 1.0,
+        "Environmental_Therapy": 1.0,
+        "Movement_Therapy": 1.0
+      }
+    },
+    "Psychological_Intervention": {
+      "branch": "Psychological_Intervention",
+      "n_concepts": 132,
+      "runs": 1,
+      "n_batches": 3,
+      "l2_parents": [
+        "Psychotherapy",
+        "Counseling",
+        "Distance_Healing",
+        "Mind–body_Therapy",
+        "Animal_Assisted_Therapy",
+        "Psychoeducational_Intervention",
+        "Positive_Thinking",
+        "Support_Group_Therapy",
+        "Spiritual_Therapy"
+      ],
+      "n_parents": 9,
+      "parent_confidence": {
+        "Psychotherapy": 1.0,
+        "Counseling": 1.0,
+        "Distance_Healing": 1.0,
+        "Mind–body_Therapy": 1.0,
+        "Animal_Assisted_Therapy": 1.0,
+        "Psychoeducational_Intervention": 1.0,
+        "Positive_Thinking": 1.0,
+        "Support_Group_Therapy": 1.0,
+        "Spiritual_Therapy": 1.0
+      }
+    },
+    "Mind-body_Therapy": {
+      "branch": "Mind-body_Therapy",
+      "n_concepts": 72,
+      "runs": 1,
+      "n_batches": 1,
+      "l2_parents": [
+        "Progressive_Muscle_Relaxation",
+        "Sophrology",
+        "Nature_Therapy",
+        "Chinese_Calligraphy_Therapy",
+        "Body_Psychotherapy",
+        "Active_Music_Therapy",
+        "Buteyko_Breathing_Training",
+        "Equine_Assisted_Therapy",
+        "Dolphin_Assisted_Therapy",
+        "Electromyography_Biofeedback",
+        "Mind_Body_Movement_Therapy",
+        "Music_Listening_Intervention",
+        "Deep_Breathing",
+        "Mind_Body_Energy_Based_Therapy",
+        "Clay_Art_Therapy"
+      ],
+      "n_parents": 15,
+      "parent_confidence": {
+        "Progressive_Muscle_Relaxation": 1.0,
+        "Sophrology": 1.0,
+        "Nature_Therapy": 1.0,
+        "Chinese_Calligraphy_Therapy": 1.0,
+        "Body_Psychotherapy": 1.0,
+        "Active_Music_Therapy": 1.0,
+        "Buteyko_Breathing_Training": 1.0,
+        "Equine_Assisted_Therapy": 1.0,
+        "Dolphin_Assisted_Therapy": 1.0,
+        "Electromyography_Biofeedback": 1.0,
+        "Mind_Body_Movement_Therapy": 1.0,
+        "Music_Listening_Intervention": 1.0,
+        "Deep_Breathing": 1.0,
+        "Mind_Body_Energy_Based_Therapy": 1.0,
+        "Clay_Art_Therapy": 1.0
+      }
+    }
+  }
+}

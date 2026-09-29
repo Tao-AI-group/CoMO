@@ -1,0 +1,45 @@
+nohup: ignoring input
+concepts in both files: 510  (gpt-5.5:510  qwen3:510)
+
+=== SEEDS (n=150) ===
+  gpt-5.5_alone          subset-acc=0.787  micro-F1=0.891  macro-F1=0.808
+  qwen3_alone            subset-acc=0.753  micro-F1=0.874  macro-F1=0.776
+  agreement rate      = 87.3%  (mean Jaccard 0.93)
+  AGREED   n= 131  subset-acc=0.809  <- auto-accept
+  DISAGREED n=  19  subset-acc=0.632 (gpt-5.5) / 0.368 (qwen3)  <- expert review
+  expert-review fraction = 12.7%
+  discrimination (agreed - disagreed) = 0.177  GOOD
+
+=== ALL (n=510) ===
+  gpt-5.5_alone          subset-acc=0.773  micro-F1=0.897  macro-F1=0.756
+  qwen3_alone            subset-acc=0.753  micro-F1=0.888  macro-F1=0.746
+  agreement rate      = 87.3%  (mean Jaccard 0.929)
+  AGREED   n= 445  subset-acc=0.807  <- auto-accept
+  DISAGREED n=  65  subset-acc=0.538 (gpt-5.5) / 0.385 (qwen3)  <- expert review
+  expert-review fraction = 12.7%
+  discrimination (agreed - disagreed) = 0.269  GOOD
+
+wrote cross_route.json
+wrote l1_review_sheet.csv  (65 concepts to review)
+concepts in both files: 481  (gpt-5.5:510  qwen3:510)
+
+=== SEEDS (n=122) ===
+  gpt-5.5_alone          subset-acc=0.77  micro-F1=0.82  macro-F1=0.576
+  qwen3_alone            subset-acc=0.721  micro-F1=0.782  macro-F1=0.553
+  agreement rate      = 87.7%  (mean Jaccard 0.896)
+  AGREED   n= 107  subset-acc=0.813  <- auto-accept
+  DISAGREED n=  15  subset-acc=0.467 (gpt-5.5) / 0.067 (qwen3)  <- expert review
+  expert-review fraction = 12.3%
+  discrimination (agreed - disagreed) = 0.346  GOOD
+
+=== ALL (n=481) ===
+  gpt-5.5_alone          subset-acc=0.784  micro-F1=0.827  macro-F1=0.859
+  qwen3_alone            subset-acc=0.74  micro-F1=0.797  macro-F1=0.87
+  agreement rate      = 87.9%  (mean Jaccard 0.895)
+  AGREED   n= 423  subset-acc=0.825  <- auto-accept
+  DISAGREED n=  58  subset-acc=0.483 (gpt-5.5) / 0.121 (qwen3)  <- expert review
+  expert-review fraction = 12.1%
+  discrimination (agreed - disagreed) = 0.342  GOOD
+
+wrote cross_build.json
+wrote l2_review_sheet.csv  (58 concepts to review)

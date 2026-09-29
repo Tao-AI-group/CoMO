@@ -1,0 +1,3906 @@
+{
+  "runs": 1,
+  "assignment": {
+    "Abbreviated_Muscle_Relaxation_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Abdominal_Massage": [
+      "Physical_Intervention"
+    ],
+    "Abdominal_Meridian_Massage": [
+      "Physical_Intervention"
+    ],
+    "Acceptance_and_Commitment_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Aconite_Cake_Separated_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Acoustic_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Active_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Acu_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Acu_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Acu_Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Acupoint_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Acupressure_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_by_Application": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_by_Application_Site": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_by_Origin": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_by_Technique": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_for_Analgesia": [
+      "Physical_Intervention"
+    ],
+    "Acupuncture_for_Anesthesia": [
+      "Physical_Intervention"
+    ],
+    "Acustimulation_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Adapted_Mindfulness_Based_Intervention": [
+      "Psychological_Intervention"
+    ],
+    "Aikido": [
+      "Physical_Intervention"
+    ],
+    "Alexander_Technique": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Analytical_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Angelica_Cake_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Animal_Assisted_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Animal_Companionship": [
+      "Psychological_Intervention"
+    ],
+    "Animal_Visitation": [
+      "Psychological_Intervention"
+    ],
+    "Anodyne_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Antenatal_Self_Hypnosis": [
+      "Psychological_Intervention"
+    ],
+    "Anthroposophic_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Antioxidant_Therapy": [
+      "Dietary_Intervention"
+    ],
+    "Apitherapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Application_of_Ice_Pack": [
+      "Physical_Intervention"
+    ],
+    "Applied_Relaxation": [
+      "Psychological_Intervention"
+    ],
+    "Aqua_Lymphatic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Aquatic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Aromatherapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Aromatherapy_Massage": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Ashtanga_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Aston_Massage": [
+      "Physical_Intervention"
+    ],
+    "Aston_Patterning": [
+      "Physical_Intervention"
+    ],
+    "Aura_Soma_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Auricular_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Auriculotherapy": [
+      "Physical_Intervention"
+    ],
+    "Autogenic_Training": [
+      "Psychological_Intervention"
+    ],
+    "Autosuggestion": [
+      "Psychological_Intervention"
+    ],
+    "Baduanjin_Qi_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Balneophototherapy": [
+      "Physical_Intervention"
+    ],
+    "Balneotherapy": [
+      "Physical_Intervention"
+    ],
+    "Bath_Puva": [
+      "Physical_Intervention"
+    ],
+    "Battlefield_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Behavioral_Dietary_Intervention": [
+      "Dietary_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Bhakti_Yoga": [
+      "Psychological_Intervention"
+    ],
+    "Bibliotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Bikram_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Bioacoustics_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Bioenergetic_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Biofeedback": [
+      "Psychological_Intervention"
+    ],
+    "Biofield_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Biographical_Counseling": [
+      "Psychological_Intervention"
+    ],
+    "Biomagnetic_Pair_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Bioresonance_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Bird_Pecking_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Biyun_Qi_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Blood_Letting_Cupping": [
+      "Physical_Intervention"
+    ],
+    "Body_Psychotherapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Body_Scanning_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Bodywork_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Bowen_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Breath_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Breathing_Exercise": [
+      "Physical_Intervention"
+    ],
+    "Bright_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Buddhist_Reiki": [
+      "Physical_Intervention"
+    ],
+    "Buteyko_Breathing_Training": [
+      "Physical_Intervention"
+    ],
+    "Cake_Separated_Mild_Warm_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Cake_Separated_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Calming_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Canine_Assisted_Ambulation": [
+      "Physical_Intervention"
+    ],
+    "Canine_Assisted_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Canine_Visitation": [
+      "Psychological_Intervention"
+    ],
+    "Carbohydrate_Restricted_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Chair_Massage": [
+      "Physical_Intervention"
+    ],
+    "Chair_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Chakra_Balancing": [
+      "Physical_Intervention"
+    ],
+    "Chan_Mi_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Chinese_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Chinese_Calligraphy_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Chinese_Massage": [
+      "Physical_Intervention"
+    ],
+    "Chiropractic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Circling_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Circular_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Clay_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Climatotherapy": [
+      "Physical_Intervention"
+    ],
+    "Cognitive_Behavioral_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Cognitive_Hypnotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Cold_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Colon_Irrigation": [
+      "Physical_Intervention"
+    ],
+    "Color_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Compassion_Based_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Complementary_Dietary_Pattern_Intervention": [
+      "Dietary_Intervention"
+    ],
+    "Concentrative_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Cone_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Connective_Tissue_Massage": [
+      "Physical_Intervention"
+    ],
+    "Constitutional_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Contingent_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Continuous_Passive_Movement_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Cotton_Sheet_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Counseling": [
+      "Psychological_Intervention"
+    ],
+    "Cranial_Electrical_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Craniosacral_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Creative_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Creative_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Crude_Herb_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Cryo_Auriculotherapy": [
+      "Physical_Intervention"
+    ],
+    "Crystal_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Cupping_by_Dynamic_of_Application": [
+      "Physical_Intervention"
+    ],
+    "Cupping_by_Method_of_Suction": [
+      "Physical_Intervention"
+    ],
+    "Cupping_by_Skin_Integrity": [
+      "Physical_Intervention"
+    ],
+    "Cupping_by_Specialized_Accessory": [
+      "Physical_Intervention"
+    ],
+    "Dance_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Daoyin_Qi_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Dead_Sea_Climatotherapy": [
+      "Physical_Intervention"
+    ],
+    "Deep_Breathing": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Deep_Tissue_Massage": [
+      "Physical_Intervention"
+    ],
+    "Detox_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Dialectical_Behavior_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Dietary_Macronutrients_Therapy": [
+      "Dietary_Intervention"
+    ],
+    "Dietary_Supplementation": [
+      "Dietary_Intervention"
+    ],
+    "Dinner_Music_Intervention": [
+      "Psychological_Intervention"
+    ],
+    "Direct_Cone_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Direct_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Direct_Vibration": [
+      "Physical_Intervention"
+    ],
+    "Distance_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Dogbi_(st35)_and__Sulan_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Dolphin_Assisted_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Dongeui_Qigong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Drama_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Drug_Separated_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Dry_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Dry_Needling": [
+      "Physical_Intervention"
+    ],
+    "Du_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Dynamic_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Ear_Candle_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Ear_Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Electric_Heating_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Electroacupuncture": [
+      "Physical_Intervention"
+    ],
+    "Electrocrystal_Therapy": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Electromagnetic_Field_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Electromyography_Biofeedback": [
+      "Psychological_Intervention"
+    ],
+    "Electronic_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Electrotherapy": [
+      "Physical_Intervention"
+    ],
+    "Electrothermal_Bian_Stone_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Emmett_Technique": [
+      "Physical_Intervention"
+    ],
+    "Emotional_Freedom_Technique": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Energy_Based_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Environmental_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Equine_Assisted_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Esalen_Massage": [
+      "Physical_Intervention"
+    ],
+    "Esogetic_Colorpuncture": [
+      "Physical_Intervention"
+    ],
+    "Eurythmy_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Exercise_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Expressive_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "External_Focusing": [
+      "Psychological_Intervention"
+    ],
+    "External_Qi_Gong_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Face_Yoga": [
+      "Physical_Intervention"
+    ],
+    "Facial_Exercise": [
+      "Physical_Intervention"
+    ],
+    "Facial_Resistance_Training": [
+      "Physical_Intervention"
+    ],
+    "Faith_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Family_Psychotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Feldenkrais_Method": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Fiber_Optic_Phototherapy": [
+      "Physical_Intervention"
+    ],
+    "Fire_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Five_Animals_Qi_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Five_Element_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Flash_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Flotation_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Focal_Muscle_Vibration": [
+      "Physical_Intervention"
+    ],
+    "Focusing_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Foot_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Foot_Massage": [
+      "Physical_Intervention"
+    ],
+    "Foot_Reflexion_Massage": [
+      "Physical_Intervention"
+    ],
+    "Foot_Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Forest_Bathing": [
+      "Psychological_Intervention"
+    ],
+    "Forest_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Fu_Yang_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Garlic_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Gemstone_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Gerson_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Gestalt_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Ginger_Salt_Partitioned_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Ginger_Separated_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Gluten_Free_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Gonzalez_Regimen": [
+      "Dietary_Intervention",
+      "Natural_Product_Intervention"
+    ],
+    "Governor_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Grain_Shaped_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Grief_Counseling": [
+      "Psychological_Intervention"
+    ],
+    "Group_Chanting_and_Singing": [
+      "Psychological_Intervention"
+    ],
+    "Group_Drumming": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Guided_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Guolin_Qigong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Hand_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Hand_Massage": [
+      "Physical_Intervention"
+    ],
+    "Hand_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Hand_Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Hanging_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Hatha_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Healing_Touch": [
+      "Physical_Intervention"
+    ],
+    "Heart_Rate_Variability_Biofeedback": [
+      "Psychological_Intervention"
+    ],
+    "Heartfulness_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Heat_Sensitive_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Heat_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Hellerwork": [
+      "Physical_Intervention"
+    ],
+    "Herb_Cake_Seperated_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Herb_Partitioned_Spread_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Herbal_Moxa_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Herbal_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "High_Protein_Diet": [
+      "Dietary_Intervention"
+    ],
+    "High_Protein_Low_Carbohydrate_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Hippotherapy": [
+      "Physical_Intervention"
+    ],
+    "Horse_Riding_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Horticultural_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Hot_Compress_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Hot_Stone_Massage": [
+      "Physical_Intervention"
+    ],
+    "Hot_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Hua_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Humor_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Hydrotherapy": [
+      "Physical_Intervention"
+    ],
+    "Hypnoanalgesia": [
+      "Psychological_Intervention"
+    ],
+    "Hypnobirthing": [
+      "Psychological_Intervention"
+    ],
+    "Hypnotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Ice_Massage": [
+      "Physical_Intervention"
+    ],
+    "Imagery_Psychotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Improvisational_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Indian_Head_Massage": [
+      "Physical_Intervention"
+    ],
+    "Indirect_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Individualized_Music_Focused_Auditory_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Infant_Massage": [
+      "Physical_Intervention"
+    ],
+    "Infrared_Laser_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Instructional_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Integrative_Massage": [
+      "Physical_Intervention"
+    ],
+    "Interactive_Focusing_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Interactive_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Intermittent_Fasting": [
+      "Dietary_Intervention"
+    ],
+    "Internal_Focusing": [
+      "Psychological_Intervention"
+    ],
+    "Internal_Qigong_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Isolated_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Iyengar_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Jaladhara_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Japanese_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Japanese_Massage": [
+      "Physical_Intervention"
+    ],
+    "Japanese_Reiki": [
+      "Physical_Intervention"
+    ],
+    "Jin_Shin_Jyutsu": [
+      "Physical_Intervention"
+    ],
+    "Jinana_Yoga": [
+      "Psychological_Intervention"
+    ],
+    "Journaling": [
+      "Psychological_Intervention"
+    ],
+    "Karaoke_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Karma_Yoga": [
+      "Psychological_Intervention"
+    ],
+    "Ketogenic_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Korean_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Kripalu_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Ksheeradhara_Therapy": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Kundalini_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Laser_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Laser_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Laughter_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Laughter_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Laying_on_of_Hands_with_Prayer": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Lifestyle_Counseling": [
+      "Psychological_Intervention"
+    ],
+    "Light_Emitting_Diode_Phototherapy": [
+      "Physical_Intervention"
+    ],
+    "Live_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Local_Vibration_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Lomilomi_Massage": [
+      "Physical_Intervention"
+    ],
+    "Long_Snake_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Loving_Kindness_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Low_Frequency_Sound_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Low_Level_Laser_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Lullaby_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Lymphatic_Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Lyric_Analysis": [
+      "Psychological_Intervention"
+    ],
+    "Macrobiotic_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Magnetic_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Magnetic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Mandala_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mantra_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Manual_Lymphatic_Drainage": [
+      "Physical_Intervention"
+    ],
+    "Manual_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Marma_Massage_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Massage_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Massage_by_Body_Area": [
+      "Physical_Intervention"
+    ],
+    "Massage_by_Material_or_Tool": [
+      "Physical_Intervention"
+    ],
+    "Massage_by_Target_Population": [
+      "Physical_Intervention"
+    ],
+    "Massage_by_Therapeutic_Objective": [
+      "Physical_Intervention"
+    ],
+    "Massage_by_Traditional_System": [
+      "Physical_Intervention"
+    ],
+    "Medicated_Thread_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Meditation_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Meditative_Movement": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Mediterranean_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Mental_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Mesotherapy": [
+      "Physical_Intervention"
+    ],
+    "Microwave_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Mild_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Mind_Body_Energy_Based_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Mind_Body_Movement_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Mindful_Awareness_in_Body_Oriented_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Mindful_Eating": [
+      "Dietary_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Mindful_Self_Compassiion": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Awareness_Practice": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Alzheimer_Stimulation": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Blood_Pressure_Reduction": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Cognitive_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Exposure_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Intervention": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Relapse_Prevention": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Resilience_Training": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Based_Stress_Reduction_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Oriented_Recovery_Enhancement": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_Performance_Enhanncement_Awareness_and_Knowledge": [
+      "Psychological_Intervention"
+    ],
+    "Mindfulness_and_Acceptance_Based_Group_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mind–body_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Mineral_Supplementation": [
+      "Dietary_Intervention"
+    ],
+    "Mobilization": [
+      "Physical_Intervention"
+    ],
+    "Monkshood_Cake_Separated_Mild_Warm_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Morita_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Motor_Control_Exercise": [
+      "Physical_Intervention"
+    ],
+    "Movement_Education": [
+      "Physical_Intervention"
+    ],
+    "Movement_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Moving_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Moxa_Stick_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Moxibustion_by_Implementation_Tool": [
+      "Physical_Intervention"
+    ],
+    "Moxibustion_by_Medicinal_Material": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Moxibustion_by_Method_of_Heat_Transfer": [
+      "Physical_Intervention"
+    ],
+    "Moxibustion_by_Specific_Clinical_Protocol": [
+      "Physical_Intervention"
+    ],
+    "Musculoskeletal_Manipulation": [
+      "Physical_Intervention"
+    ],
+    "Music_Assisted_Progressive_Muscle_Relaxation": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Music_Assisted_Reframing": [
+      "Psychological_Intervention"
+    ],
+    "Music_Based_Imagery": [
+      "Psychological_Intervention"
+    ],
+    "Music_Exposure_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Music_Listening_Intervention": [
+      "Physical_Intervention"
+    ],
+    "Music_Reinforced_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Music_Video_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Musical_Game_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Musical_Motor_Feedback": [
+      "Physical_Intervention"
+    ],
+    "Musicokinetic_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Myofascial_Release_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Myotherapy": [
+      "Physical_Intervention"
+    ],
+    "Narrative_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Native_American_Faith_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Nature_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Needle_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Needle_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Neurocranial_Restructuring": [
+      "Physical_Intervention"
+    ],
+    "Neurofeedback": [
+      "Psychological_Intervention"
+    ],
+    "Neurolinguistic_Programming": [
+      "Psychological_Intervention"
+    ],
+    "Neuromuscular_Massage": [
+      "Physical_Intervention"
+    ],
+    "Noetic_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Nontargeted_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Ocular_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Oil_Massage": [
+      "Physical_Intervention"
+    ],
+    "Open_Monitoring_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Orff_Based_Music_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Oriental_Massage": [
+      "Physical_Intervention"
+    ],
+    "Orthomolecular_Therapy": [
+      "Dietary_Intervention"
+    ],
+    "Orthopedic_Manipulation": [
+      "Physical_Intervention"
+    ],
+    "Osteopathic_Manipulation": [
+      "Physical_Intervention"
+    ],
+    "Painting_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Paleolithic_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Partition_Bran_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Partition_Herb_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Percutaneous_Collagen_Induction": [
+      "Physical_Intervention"
+    ],
+    "Perineal_Massage": [
+      "Physical_Intervention"
+    ],
+    "Phenomenological_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Photodynamic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Phototherapy": [
+      "Physical_Intervention"
+    ],
+    "Phytoestrogen_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Phytotherapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Pilates_Based_Exercise": [
+      "Physical_Intervention"
+    ],
+    "Plant_Based_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Play_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Polarity_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Positive_Self_Talk": [
+      "Psychological_Intervention"
+    ],
+    "Positive_Thinking": [
+      "Psychological_Intervention"
+    ],
+    "Post_Hypnotic_Suggestion": [
+      "Psychological_Intervention"
+    ],
+    "Pottery_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Power_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Pranayama_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Prayer_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Progressive_Muscle_Relaxation": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Prolotherapy": [
+      "Physical_Intervention"
+    ],
+    "Prostate_Massage": [
+      "Physical_Intervention"
+    ],
+    "Psychodynamic_Group_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Psychoeducational_Horseback_Riding": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Psychoeducational_Intervention": [
+      "Psychological_Intervention"
+    ],
+    "Psychotherapy": [
+      "Psychological_Intervention"
+    ],
+    "Psychotherapy_Incorporating_Mindfulness": [
+      "Psychological_Intervention"
+    ],
+    "Psychotherapy_Incorporating_Spirituality": [
+      "Psychological_Intervention"
+    ],
+    "Pulsating_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Pulsed_Electromagnetic_Fields_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Putative_Energy_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Qi_Gong_Yangsheng": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Radiesthesia": [
+      "Physical_Intervention"
+    ],
+    "Radionics": [
+      "Physical_Intervention"
+    ],
+    "Raga_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Raja_Yoga": [
+      "Psychological_Intervention"
+    ],
+    "Raw_Food_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Receptive_Music_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Reflexology": [
+      "Physical_Intervention"
+    ],
+    "Reiki_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Relaxation_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Relaxing_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Reminiscence_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Reprocessing_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Retained_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Rhythmic_Sensory_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Rhythmical_Massage": [
+      "Physical_Intervention"
+    ],
+    "Rice_Sized_Direct_Moxa": [
+      "Physical_Intervention"
+    ],
+    "Role_Playing": [
+      "Psychological_Intervention"
+    ],
+    "Rolfing_Theray": [
+      "Physical_Intervention"
+    ],
+    "Roll_Stretch_Massage": [
+      "Physical_Intervention"
+    ],
+    "Sahaj_Yoga": [
+      "Psychological_Intervention"
+    ],
+    "Sauna_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Scent_Therapy": [
+      "Natural_Product_Intervention"
+    ],
+    "Self_Hypnosis": [
+      "Psychological_Intervention"
+    ],
+    "Sensory_Feedback": [
+      "Physical_Intervention"
+    ],
+    "Sensory_Stimulation_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Shamanic_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Shirodhara_Therapy": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Silicone_Oil_Massage": [
+      "Physical_Intervention"
+    ],
+    "Single_Point_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Sivananda_Yoga": [
+      "Dietary_Intervention",
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Skin_Rehabilitation_Massage_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Snake_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Soak_in_Hot_Spring": [
+      "Physical_Intervention"
+    ],
+    "Soft_Tissue_Massage": [
+      "Physical_Intervention"
+    ],
+    "Soft_Tissue_Mobilization": [
+      "Physical_Intervention"
+    ],
+    "Soft_Tissue_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Solar_Term_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Sophrology": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Sound_Healing": [
+      "Physical_Intervention"
+    ],
+    "Sound_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Spa_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Speleotherapy": [
+      "Physical_Intervention"
+    ],
+    "Spinal_Manipulation": [
+      "Physical_Intervention"
+    ],
+    "Spiritual_Healing": [
+      "Psychological_Intervention"
+    ],
+    "Spiritual_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Sport_Massage": [
+      "Physical_Intervention"
+    ],
+    "Stress_Management_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Substance_Partitioned_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Sudarshana_Kriya_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Suggestion_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Support_Group_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Suspended_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Swedish_Massage": [
+      "Physical_Intervention"
+    ],
+    "Tai_Chi": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Tantra_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Targeted_Light_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Thai_Massage": [
+      "Physical_Intervention"
+    ],
+    "Thakradhara_Therapy": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Therapeutic_Horseback_Riding": [
+      "Physical_Intervention"
+    ],
+    "Therapeutic_Massage": [
+      "Physical_Intervention"
+    ],
+    "Therapeutic_Touch": [
+      "Physical_Intervention"
+    ],
+    "Theravada_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Thermal_Bath": [
+      "Physical_Intervention"
+    ],
+    "Thermal_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Thin_Cotton_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Thought_Field_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Thunder_Fire_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Thyladhara_Therapy": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ],
+    "Tibetan_Massage": [
+      "Physical_Intervention"
+    ],
+    "Tibetan_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Tortoise_Shell_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Trager_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Transcendental_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Transcranial_Magnetic_Stimulation": [
+      "Physical_Intervention"
+    ],
+    "Transcutaneous_Electrical_Acustimulation": [
+      "Physical_Intervention"
+    ],
+    "Trigger_Point_Acupuncture": [
+      "Physical_Intervention"
+    ],
+    "Trigger_Point_Massage": [
+      "Physical_Intervention"
+    ],
+    "Trigger_Point_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Ultrasonic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Ultraviolet_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Vegan_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Vegetarian_Diet": [
+      "Dietary_Intervention"
+    ],
+    "Veritable_Energy_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Vibration_Foam_Rolling": [
+      "Physical_Intervention"
+    ],
+    "Vibration_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Vibroacoustic_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Vinyasa_Yoga": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Vipassana_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Visual_Art_Therapy": [
+      "Psychological_Intervention"
+    ],
+    "Vitamin_Supplementation": [
+      "Dietary_Intervention"
+    ],
+    "Walking_Meditation": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Warm_Needle_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Warming_Cup_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Warming_Moxibustion": [
+      "Physical_Intervention"
+    ],
+    "Water_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Western_Massage": [
+      "Physical_Intervention"
+    ],
+    "Wet_Cupping_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Whole_Body_Vibration_Exercise": [
+      "Physical_Intervention"
+    ],
+    "Whole_Body_Vibration_Therapy": [
+      "Physical_Intervention"
+    ],
+    "Yi_Jia_Gong": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Yoga_Nidra": [
+      "Psychological_Intervention"
+    ],
+    "Yoga_Therapy": [
+      "Physical_Intervention",
+      "Psychological_Intervention"
+    ],
+    "Zen_Meditation": [
+      "Psychological_Intervention"
+    ],
+    "Zero_Balancing": [
+      "Physical_Intervention"
+    ],
+    "Zhuang_Medicated_Thread_Moxibustion": [
+      "Natural_Product_Intervention",
+      "Physical_Intervention"
+    ]
+  },
+  "confidence": {
+    "Abbreviated_Muscle_Relaxation_Therapy": 1.0,
+    "Abdominal_Massage": 1.0,
+    "Abdominal_Meridian_Massage": 1.0,
+    "Acceptance_and_Commitment_Therapy": 1.0,
+    "Aconite_Cake_Separated_Moxibustion": 1.0,
+    "Acoustic_Stimulation": 1.0,
+    "Active_Music_Therapy": 1.0,
+    "Acu_Light_Therapy": 1.0,
+    "Acu_Moxibustion": 1.0,
+    "Acu_Reflexology": 1.0,
+    "Acupoint_Stimulation": 1.0,
+    "Acupressure_Therapy": 1.0,
+    "Acupuncture": 1.0,
+    "Acupuncture_by_Application": 1.0,
+    "Acupuncture_by_Application_Site": 1.0,
+    "Acupuncture_by_Origin": 1.0,
+    "Acupuncture_by_Technique": 1.0,
+    "Acupuncture_for_Analgesia": 1.0,
+    "Acupuncture_for_Anesthesia": 1.0,
+    "Acustimulation_Therapy": 1.0,
+    "Adapted_Mindfulness_Based_Intervention": 1.0,
+    "Aikido": 1.0,
+    "Alexander_Technique": 1.0,
+    "Analytical_Meditation": 1.0,
+    "Angelica_Cake_Moxibustion": 1.0,
+    "Animal_Assisted_Therapy": 1.0,
+    "Animal_Companionship": 1.0,
+    "Animal_Visitation": 1.0,
+    "Anodyne_Therapy": 1.0,
+    "Antenatal_Self_Hypnosis": 1.0,
+    "Anthroposophic_Art_Therapy": 1.0,
+    "Antioxidant_Therapy": 1.0,
+    "Apitherapy": 1.0,
+    "Application_of_Ice_Pack": 1.0,
+    "Applied_Relaxation": 1.0,
+    "Aqua_Lymphatic_Therapy": 1.0,
+    "Aquatic_Therapy": 1.0,
+    "Aromatherapy": 1.0,
+    "Aromatherapy_Massage": 1.0,
+    "Art_Therapy": 1.0,
+    "Ashtanga_Yoga": 1.0,
+    "Aston_Massage": 1.0,
+    "Aston_Patterning": 1.0,
+    "Aura_Soma_Therapy": 1.0,
+    "Auricular_Acupuncture": 1.0,
+    "Auriculotherapy": 1.0,
+    "Autogenic_Training": 1.0,
+    "Autosuggestion": 1.0,
+    "Baduanjin_Qi_Gong": 1.0,
+    "Balneophototherapy": 1.0,
+    "Balneotherapy": 1.0,
+    "Bath_Puva": 1.0,
+    "Battlefield_Acupuncture": 1.0,
+    "Behavioral_Dietary_Intervention": 1.0,
+    "Bhakti_Yoga": 1.0,
+    "Bibliotherapy": 1.0,
+    "Bikram_Yoga": 1.0,
+    "Bioacoustics_Therapy": 1.0,
+    "Bioenergetic_Therapy": 1.0,
+    "Biofeedback": 1.0,
+    "Biofield_Therapy": 1.0,
+    "Biographical_Counseling": 1.0,
+    "Biomagnetic_Pair_Therapy": 1.0,
+    "Bioresonance_Therapy": 1.0,
+    "Bird_Pecking_Moxibustion": 1.0,
+    "Biyun_Qi_Gong": 1.0,
+    "Blood_Letting_Cupping": 1.0,
+    "Body_Psychotherapy": 1.0,
+    "Body_Scanning_Meditation": 1.0,
+    "Bodywork_Therapy": 1.0,
+    "Bowen_Therapy": 1.0,
+    "Breath_Meditation": 1.0,
+    "Breathing_Exercise": 1.0,
+    "Bright_Light_Therapy": 1.0,
+    "Buddhist_Reiki": 1.0,
+    "Buteyko_Breathing_Training": 1.0,
+    "Cake_Separated_Mild_Warm_Moxibustion": 1.0,
+    "Cake_Separated_Moxibustion": 1.0,
+    "Calming_Music_Therapy": 1.0,
+    "Canine_Assisted_Ambulation": 1.0,
+    "Canine_Assisted_Therapy": 1.0,
+    "Canine_Visitation": 1.0,
+    "Carbohydrate_Restricted_Diet": 1.0,
+    "Chair_Massage": 1.0,
+    "Chair_Yoga": 1.0,
+    "Chakra_Balancing": 1.0,
+    "Chan_Mi_Gong": 1.0,
+    "Chinese_Acupuncture": 1.0,
+    "Chinese_Calligraphy_Therapy": 1.0,
+    "Chinese_Massage": 1.0,
+    "Chiropractic_Therapy": 1.0,
+    "Circling_Moxibustion": 1.0,
+    "Circular_Yoga": 1.0,
+    "Clay_Art_Therapy": 1.0,
+    "Climatotherapy": 1.0,
+    "Cognitive_Behavioral_Therapy": 1.0,
+    "Cognitive_Hypnotherapy": 1.0,
+    "Cold_Therapy": 1.0,
+    "Colon_Irrigation": 1.0,
+    "Color_Therapy": 1.0,
+    "Compassion_Based_Meditation": 1.0,
+    "Complementary_Dietary_Pattern_Intervention": 1.0,
+    "Concentrative_Meditation": 1.0,
+    "Cone_Moxibustion": 1.0,
+    "Connective_Tissue_Massage": 1.0,
+    "Constitutional_Acupuncture": 1.0,
+    "Contingent_Music_Therapy": 1.0,
+    "Continuous_Passive_Movement_Therapy": 1.0,
+    "Cotton_Sheet_Moxibustion": 1.0,
+    "Counseling": 1.0,
+    "Cranial_Electrical_Stimulation": 1.0,
+    "Craniosacral_Therapy": 1.0,
+    "Creative_Art_Therapy": 1.0,
+    "Creative_Yoga": 1.0,
+    "Crude_Herb_Moxibustion": 1.0,
+    "Cryo_Auriculotherapy": 1.0,
+    "Crystal_Therapy": 1.0,
+    "Cupping_Therapy": 1.0,
+    "Cupping_by_Dynamic_of_Application": 1.0,
+    "Cupping_by_Method_of_Suction": 1.0,
+    "Cupping_by_Skin_Integrity": 1.0,
+    "Cupping_by_Specialized_Accessory": 1.0,
+    "Dance_Therapy": 1.0,
+    "Daoyin_Qi_Gong": 1.0,
+    "Dead_Sea_Climatotherapy": 1.0,
+    "Deep_Breathing": 1.0,
+    "Deep_Tissue_Massage": 1.0,
+    "Detox_Diet": 1.0,
+    "Dialectical_Behavior_Therapy": 1.0,
+    "Dietary_Macronutrients_Therapy": 1.0,
+    "Dietary_Supplementation": 1.0,
+    "Dinner_Music_Intervention": 1.0,
+    "Direct_Cone_Moxibustion": 1.0,
+    "Direct_Moxibustion": 1.0,
+    "Direct_Vibration": 1.0,
+    "Distance_Healing": 1.0,
+    "Dogbi_(st35)_and__Sulan_Moxibustion": 1.0,
+    "Dolphin_Assisted_Therapy": 1.0,
+    "Dongeui_Qigong": 1.0,
+    "Drama_Therapy": 1.0,
+    "Drug_Separated_Moxibustion": 1.0,
+    "Dry_Cupping_Therapy": 1.0,
+    "Dry_Needling": 1.0,
+    "Du_Moxibustion": 1.0,
+    "Dynamic_Moxibustion": 1.0,
+    "Ear_Candle_Therapy": 1.0,
+    "Ear_Reflexology": 1.0,
+    "Electric_Heating_Moxibustion": 1.0,
+    "Electroacupuncture": 1.0,
+    "Electrocrystal_Therapy": 1.0,
+    "Electromagnetic_Field_Therapy": 1.0,
+    "Electromyography_Biofeedback": 1.0,
+    "Electronic_Moxibustion": 1.0,
+    "Electrotherapy": 1.0,
+    "Electrothermal_Bian_Stone_Moxibustion": 1.0,
+    "Emmett_Technique": 1.0,
+    "Emotional_Freedom_Technique": 1.0,
+    "Energy_Based_Therapy": 1.0,
+    "Environmental_Therapy": 1.0,
+    "Equine_Assisted_Therapy": 1.0,
+    "Esalen_Massage": 1.0,
+    "Esogetic_Colorpuncture": 1.0,
+    "Eurythmy_Therapy": 1.0,
+    "Exercise_Therapy": 1.0,
+    "Expressive_Therapy": 1.0,
+    "External_Focusing": 1.0,
+    "External_Qi_Gong_Therapy": 1.0,
+    "Face_Yoga": 1.0,
+    "Facial_Exercise": 1.0,
+    "Facial_Resistance_Training": 1.0,
+    "Faith_Healing": 1.0,
+    "Family_Psychotherapy": 1.0,
+    "Feldenkrais_Method": 1.0,
+    "Fiber_Optic_Phototherapy": 1.0,
+    "Fire_Cupping_Therapy": 1.0,
+    "Five_Animals_Qi_Gong": 1.0,
+    "Five_Element_Acupuncture": 1.0,
+    "Flash_Cupping_Therapy": 1.0,
+    "Flotation_Therapy": 1.0,
+    "Focal_Muscle_Vibration": 1.0,
+    "Focusing_Therapy": 1.0,
+    "Foot_Acupuncture": 1.0,
+    "Foot_Massage": 1.0,
+    "Foot_Reflexion_Massage": 1.0,
+    "Foot_Reflexology": 1.0,
+    "Forest_Bathing": 1.0,
+    "Forest_Therapy": 1.0,
+    "Fu_Yang_Moxibustion": 1.0,
+    "Garlic_Moxibustion": 1.0,
+    "Gemstone_Therapy": 1.0,
+    "Gerson_Diet": 1.0,
+    "Gestalt_Therapy": 1.0,
+    "Ginger_Salt_Partitioned_Moxibustion": 1.0,
+    "Ginger_Separated_Moxibustion": 1.0,
+    "Gluten_Free_Diet": 1.0,
+    "Gonzalez_Regimen": 1.0,
+    "Governor_Moxibustion": 1.0,
+    "Grain_Shaped_Moxibustion": 1.0,
+    "Grief_Counseling": 1.0,
+    "Group_Chanting_and_Singing": 1.0,
+    "Group_Drumming": 1.0,
+    "Guided_Meditation": 1.0,
+    "Guolin_Qigong": 1.0,
+    "Hand_Acupuncture": 1.0,
+    "Hand_Massage": 1.0,
+    "Hand_Moxibustion": 1.0,
+    "Hand_Reflexology": 1.0,
+    "Hanging_Moxibustion": 1.0,
+    "Hatha_Yoga": 1.0,
+    "Healing_Touch": 1.0,
+    "Heart_Rate_Variability_Biofeedback": 1.0,
+    "Heartfulness_Meditation": 1.0,
+    "Heat_Sensitive_Moxibustion": 1.0,
+    "Heat_Therapy": 1.0,
+    "Hellerwork": 1.0,
+    "Herb_Cake_Seperated_Moxibustion": 1.0,
+    "Herb_Partitioned_Spread_Moxibustion": 1.0,
+    "Herbal_Moxa_Moxibustion": 1.0,
+    "Herbal_Therapy": 1.0,
+    "High_Protein_Diet": 1.0,
+    "High_Protein_Low_Carbohydrate_Diet": 1.0,
+    "Hippotherapy": 1.0,
+    "Horse_Riding_Therapy": 1.0,
+    "Horticultural_Therapy": 1.0,
+    "Hot_Compress_Therapy": 1.0,
+    "Hot_Stone_Massage": 1.0,
+    "Hot_Yoga": 1.0,
+    "Hua_Gong": 1.0,
+    "Humor_Therapy": 1.0,
+    "Hydrotherapy": 1.0,
+    "Hypnoanalgesia": 1.0,
+    "Hypnobirthing": 1.0,
+    "Hypnotherapy": 1.0,
+    "Ice_Massage": 1.0,
+    "Imagery_Psychotherapy": 1.0,
+    "Improvisational_Music_Therapy": 1.0,
+    "Indian_Head_Massage": 1.0,
+    "Indirect_Moxibustion": 1.0,
+    "Individualized_Music_Focused_Auditory_Therapy": 1.0,
+    "Infant_Massage": 1.0,
+    "Infrared_Laser_Moxibustion": 1.0,
+    "Instructional_Music_Therapy": 1.0,
+    "Integrative_Massage": 1.0,
+    "Interactive_Focusing_Therapy": 1.0,
+    "Interactive_Music_Therapy": 1.0,
+    "Intermittent_Fasting": 1.0,
+    "Internal_Focusing": 1.0,
+    "Internal_Qigong_Therapy": 1.0,
+    "Isolated_Moxibustion": 1.0,
+    "Iyengar_Yoga": 1.0,
+    "Jaladhara_Therapy": 1.0,
+    "Japanese_Acupuncture": 1.0,
+    "Japanese_Massage": 1.0,
+    "Japanese_Reiki": 1.0,
+    "Jin_Shin_Jyutsu": 1.0,
+    "Jinana_Yoga": 1.0,
+    "Journaling": 1.0,
+    "Karaoke_Therapy": 1.0,
+    "Karma_Yoga": 1.0,
+    "Ketogenic_Diet": 1.0,
+    "Korean_Acupuncture": 1.0,
+    "Kripalu_Yoga": 1.0,
+    "Ksheeradhara_Therapy": 1.0,
+    "Kundalini_Yoga": 1.0,
+    "Laser_Acupuncture": 1.0,
+    "Laser_Moxibustion": 1.0,
+    "Laughter_Therapy": 1.0,
+    "Laughter_Yoga": 1.0,
+    "Laying_on_of_Hands_with_Prayer": 1.0,
+    "Lifestyle_Counseling": 1.0,
+    "Light_Emitting_Diode_Phototherapy": 1.0,
+    "Live_Music_Therapy": 1.0,
+    "Local_Vibration_Therapy": 1.0,
+    "Lomilomi_Massage": 1.0,
+    "Long_Snake_Moxibustion": 1.0,
+    "Loving_Kindness_Meditation": 1.0,
+    "Low_Frequency_Sound_Stimulation": 1.0,
+    "Low_Level_Laser_Therapy": 1.0,
+    "Lullaby_Therapy": 1.0,
+    "Lymphatic_Reflexology": 1.0,
+    "Lyric_Analysis": 1.0,
+    "Macrobiotic_Diet": 1.0,
+    "Magnetic_Cupping_Therapy": 1.0,
+    "Magnetic_Therapy": 1.0,
+    "Mandala_Therapy": 1.0,
+    "Mantra_Meditation": 1.0,
+    "Manual_Lymphatic_Drainage": 1.0,
+    "Manual_Therapy": 1.0,
+    "Marma_Massage_Therapy": 1.0,
+    "Massage_Therapy": 1.0,
+    "Massage_by_Body_Area": 1.0,
+    "Massage_by_Material_or_Tool": 1.0,
+    "Massage_by_Target_Population": 1.0,
+    "Massage_by_Therapeutic_Objective": 1.0,
+    "Massage_by_Traditional_System": 1.0,
+    "Medicated_Thread_Moxibustion": 1.0,
+    "Meditation_Therapy": 1.0,
+    "Meditative_Movement": 1.0,
+    "Mediterranean_Diet": 1.0,
+    "Mental_Healing": 1.0,
+    "Mesotherapy": 1.0,
+    "Microwave_Acupuncture": 1.0,
+    "Mild_Moxibustion": 1.0,
+    "Mind_Body_Energy_Based_Therapy": 1.0,
+    "Mind_Body_Movement_Therapy": 1.0,
+    "Mindful_Awareness_in_Body_Oriented_Therapy": 1.0,
+    "Mindful_Eating": 1.0,
+    "Mindful_Self_Compassiion": 1.0,
+    "Mindfulness_Awareness_Practice": 1.0,
+    "Mindfulness_Based_Alzheimer_Stimulation": 1.0,
+    "Mindfulness_Based_Art_Therapy": 1.0,
+    "Mindfulness_Based_Blood_Pressure_Reduction": 1.0,
+    "Mindfulness_Based_Cognitive_Therapy": 1.0,
+    "Mindfulness_Based_Exposure_Therapy": 1.0,
+    "Mindfulness_Based_Intervention": 1.0,
+    "Mindfulness_Based_Relapse_Prevention": 1.0,
+    "Mindfulness_Based_Resilience_Training": 1.0,
+    "Mindfulness_Based_Stress_Reduction_Meditation": 1.0,
+    "Mindfulness_Meditation": 1.0,
+    "Mindfulness_Oriented_Recovery_Enhancement": 1.0,
+    "Mindfulness_Performance_Enhanncement_Awareness_and_Knowledge": 1.0,
+    "Mindfulness_and_Acceptance_Based_Group_Therapy": 1.0,
+    "Mind–body_Therapy": 1.0,
+    "Mineral_Supplementation": 1.0,
+    "Mobilization": 1.0,
+    "Monkshood_Cake_Separated_Mild_Warm_Moxibustion": 1.0,
+    "Morita_Therapy": 1.0,
+    "Motor_Control_Exercise": 1.0,
+    "Movement_Education": 1.0,
+    "Movement_Therapy": 1.0,
+    "Moving_Cupping_Therapy": 1.0,
+    "Moxa_Stick_Moxibustion": 1.0,
+    "Moxibustion": 1.0,
+    "Moxibustion_by_Implementation_Tool": 1.0,
+    "Moxibustion_by_Medicinal_Material": 1.0,
+    "Moxibustion_by_Method_of_Heat_Transfer": 1.0,
+    "Moxibustion_by_Specific_Clinical_Protocol": 1.0,
+    "Musculoskeletal_Manipulation": 1.0,
+    "Music_Assisted_Progressive_Muscle_Relaxation": 1.0,
+    "Music_Assisted_Reframing": 1.0,
+    "Music_Based_Imagery": 1.0,
+    "Music_Exposure_Therapy": 1.0,
+    "Music_Listening_Intervention": 1.0,
+    "Music_Reinforced_Therapy": 1.0,
+    "Music_Therapy": 1.0,
+    "Music_Video_Therapy": 1.0,
+    "Musical_Game_Therapy": 1.0,
+    "Musical_Motor_Feedback": 1.0,
+    "Musicokinetic_Therapy": 1.0,
+    "Myofascial_Release_Therapy": 1.0,
+    "Myotherapy": 1.0,
+    "Narrative_Therapy": 1.0,
+    "Native_American_Faith_Healing": 1.0,
+    "Nature_Therapy": 1.0,
+    "Needle_Cupping_Therapy": 1.0,
+    "Needle_Moxibustion": 1.0,
+    "Neurocranial_Restructuring": 1.0,
+    "Neurofeedback": 1.0,
+    "Neurolinguistic_Programming": 1.0,
+    "Neuromuscular_Massage": 1.0,
+    "Noetic_Therapy": 1.0,
+    "Nontargeted_Light_Therapy": 1.0,
+    "Ocular_Light_Therapy": 1.0,
+    "Oil_Massage": 1.0,
+    "Open_Monitoring_Meditation": 1.0,
+    "Orff_Based_Music_Therapy": 1.0,
+    "Oriental_Massage": 1.0,
+    "Orthomolecular_Therapy": 1.0,
+    "Orthopedic_Manipulation": 1.0,
+    "Osteopathic_Manipulation": 1.0,
+    "Painting_Therapy": 1.0,
+    "Paleolithic_Diet": 1.0,
+    "Partition_Bran_Moxibustion": 1.0,
+    "Partition_Herb_Moxibustion": 1.0,
+    "Percutaneous_Collagen_Induction": 1.0,
+    "Perineal_Massage": 1.0,
+    "Phenomenological_Art_Therapy": 1.0,
+    "Photodynamic_Therapy": 1.0,
+    "Phototherapy": 1.0,
+    "Phytoestrogen_Therapy": 1.0,
+    "Phytotherapy": 1.0,
+    "Pilates_Based_Exercise": 1.0,
+    "Plant_Based_Diet": 1.0,
+    "Play_Therapy": 1.0,
+    "Polarity_Therapy": 1.0,
+    "Positive_Self_Talk": 1.0,
+    "Positive_Thinking": 1.0,
+    "Post_Hypnotic_Suggestion": 1.0,
+    "Pottery_Therapy": 1.0,
+    "Power_Yoga": 1.0,
+    "Pranayama_Yoga": 1.0,
+    "Prayer_Healing": 1.0,
+    "Progressive_Muscle_Relaxation": 1.0,
+    "Prolotherapy": 1.0,
+    "Prostate_Massage": 1.0,
+    "Psychodynamic_Group_Art_Therapy": 1.0,
+    "Psychoeducational_Horseback_Riding": 1.0,
+    "Psychoeducational_Intervention": 1.0,
+    "Psychotherapy": 1.0,
+    "Psychotherapy_Incorporating_Mindfulness": 1.0,
+    "Psychotherapy_Incorporating_Spirituality": 1.0,
+    "Pulsating_Cupping_Therapy": 1.0,
+    "Pulsed_Electromagnetic_Fields_Therapy": 1.0,
+    "Putative_Energy_Therapy": 1.0,
+    "Qi_Gong_Yangsheng": 1.0,
+    "Radiesthesia": 1.0,
+    "Radionics": 1.0,
+    "Raga_Therapy": 1.0,
+    "Raja_Yoga": 1.0,
+    "Raw_Food_Diet": 1.0,
+    "Receptive_Music_Therapy": 1.0,
+    "Reflexology": 1.0,
+    "Reiki_Therapy": 1.0,
+    "Relaxation_Therapy": 1.0,
+    "Relaxing_Yoga": 1.0,
+    "Reminiscence_Therapy": 1.0,
+    "Reprocessing_Light_Therapy": 1.0,
+    "Retained_Cupping_Therapy": 1.0,
+    "Rhythmic_Sensory_Stimulation": 1.0,
+    "Rhythmical_Massage": 1.0,
+    "Rice_Sized_Direct_Moxa": 1.0,
+    "Role_Playing": 1.0,
+    "Rolfing_Theray": 1.0,
+    "Roll_Stretch_Massage": 1.0,
+    "Sahaj_Yoga": 1.0,
+    "Sauna_Therapy": 1.0,
+    "Scent_Therapy": 1.0,
+    "Self_Hypnosis": 1.0,
+    "Sensory_Feedback": 1.0,
+    "Sensory_Stimulation_Therapy": 1.0,
+    "Shamanic_Healing": 1.0,
+    "Shirodhara_Therapy": 1.0,
+    "Silicone_Oil_Massage": 1.0,
+    "Single_Point_Acupuncture": 1.0,
+    "Sivananda_Yoga": 1.0,
+    "Skin_Rehabilitation_Massage_Therapy": 1.0,
+    "Snake_Moxibustion": 1.0,
+    "Soak_in_Hot_Spring": 1.0,
+    "Soft_Tissue_Massage": 1.0,
+    "Soft_Tissue_Mobilization": 1.0,
+    "Soft_Tissue_Therapy": 1.0,
+    "Solar_Term_Moxibustion": 1.0,
+    "Sophrology": 1.0,
+    "Sound_Healing": 1.0,
+    "Sound_Therapy": 1.0,
+    "Spa_Therapy": 1.0,
+    "Speleotherapy": 1.0,
+    "Spinal_Manipulation": 1.0,
+    "Spiritual_Healing": 1.0,
+    "Spiritual_Therapy": 1.0,
+    "Sport_Massage": 1.0,
+    "Stress_Management_Therapy": 1.0,
+    "Substance_Partitioned_Moxibustion": 1.0,
+    "Sudarshana_Kriya_Yoga": 1.0,
+    "Suggestion_Therapy": 1.0,
+    "Support_Group_Therapy": 1.0,
+    "Suspended_Moxibustion": 1.0,
+    "Swedish_Massage": 1.0,
+    "Tai_Chi": 1.0,
+    "Tantra_Yoga": 1.0,
+    "Targeted_Light_Therapy": 1.0,
+    "Thai_Massage": 1.0,
+    "Thakradhara_Therapy": 1.0,
+    "Therapeutic_Horseback_Riding": 1.0,
+    "Therapeutic_Massage": 1.0,
+    "Therapeutic_Touch": 1.0,
+    "Theravada_Meditation": 1.0,
+    "Thermal_Bath": 1.0,
+    "Thermal_Therapy": 1.0,
+    "Thin_Cotton_Moxibustion": 1.0,
+    "Thought_Field_Therapy": 1.0,
+    "Thunder_Fire_Moxibustion": 1.0,
+    "Thyladhara_Therapy": 1.0,
+    "Tibetan_Massage": 1.0,
+    "Tibetan_Yoga": 1.0,
+    "Tortoise_Shell_Moxibustion": 1.0,
+    "Trager_Therapy": 1.0,
+    "Transcendental_Meditation": 1.0,
+    "Transcranial_Magnetic_Stimulation": 1.0,
+    "Transcutaneous_Electrical_Acustimulation": 1.0,
+    "Trigger_Point_Acupuncture": 1.0,
+    "Trigger_Point_Massage": 1.0,
+    "Trigger_Point_Therapy": 1.0,
+    "Ultrasonic_Therapy": 1.0,
+    "Ultraviolet_Therapy": 1.0,
+    "Vegan_Diet": 1.0,
+    "Vegetarian_Diet": 1.0,
+    "Veritable_Energy_Therapy": 1.0,
+    "Vibration_Foam_Rolling": 1.0,
+    "Vibration_Therapy": 1.0,
+    "Vibroacoustic_Therapy": 1.0,
+    "Vinyasa_Yoga": 1.0,
+    "Vipassana_Meditation": 1.0,
+    "Visual_Art_Therapy": 1.0,
+    "Vitamin_Supplementation": 1.0,
+    "Walking_Meditation": 1.0,
+    "Warm_Needle_Moxibustion": 1.0,
+    "Warming_Cup_Moxibustion": 1.0,
+    "Warming_Moxibustion": 1.0,
+    "Water_Cupping_Therapy": 1.0,
+    "Western_Massage": 1.0,
+    "Wet_Cupping_Therapy": 1.0,
+    "Whole_Body_Vibration_Exercise": 1.0,
+    "Whole_Body_Vibration_Therapy": 1.0,
+    "Yi_Jia_Gong": 1.0,
+    "Yoga_Nidra": 1.0,
+    "Yoga_Therapy": 1.0,
+    "Zen_Meditation": 1.0,
+    "Zero_Balancing": 1.0,
+    "Zhuang_Medicated_Thread_Moxibustion": 1.0
+  },
+  "per_run_assignments": [
+    {
+      "Abbreviated_Muscle_Relaxation_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Abdominal_Massage": [
+        "Physical_Intervention"
+      ],
+      "Abdominal_Meridian_Massage": [
+        "Physical_Intervention"
+      ],
+      "Acceptance_and_Commitment_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Aconite_Cake_Separated_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Acoustic_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Active_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Acu_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Acu_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Acu_Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Acupoint_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Acupressure_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_by_Application": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_by_Application_Site": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_by_Origin": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_by_Technique": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_for_Analgesia": [
+        "Physical_Intervention"
+      ],
+      "Acupuncture_for_Anesthesia": [
+        "Physical_Intervention"
+      ],
+      "Acustimulation_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Adapted_Mindfulness_Based_Intervention": [
+        "Psychological_Intervention"
+      ],
+      "Aikido": [
+        "Physical_Intervention"
+      ],
+      "Alexander_Technique": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Analytical_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Angelica_Cake_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Animal_Assisted_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Animal_Companionship": [
+        "Psychological_Intervention"
+      ],
+      "Animal_Visitation": [
+        "Psychological_Intervention"
+      ],
+      "Anodyne_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Antenatal_Self_Hypnosis": [
+        "Psychological_Intervention"
+      ],
+      "Anthroposophic_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Antioxidant_Therapy": [
+        "Dietary_Intervention"
+      ],
+      "Apitherapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Application_of_Ice_Pack": [
+        "Physical_Intervention"
+      ],
+      "Applied_Relaxation": [
+        "Psychological_Intervention"
+      ],
+      "Aqua_Lymphatic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Aquatic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Aromatherapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Aromatherapy_Massage": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Ashtanga_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Aston_Massage": [
+        "Physical_Intervention"
+      ],
+      "Aston_Patterning": [
+        "Physical_Intervention"
+      ],
+      "Aura_Soma_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Auricular_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Auriculotherapy": [
+        "Physical_Intervention"
+      ],
+      "Autogenic_Training": [
+        "Psychological_Intervention"
+      ],
+      "Autosuggestion": [
+        "Psychological_Intervention"
+      ],
+      "Baduanjin_Qi_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Balneophototherapy": [
+        "Physical_Intervention"
+      ],
+      "Balneotherapy": [
+        "Physical_Intervention"
+      ],
+      "Bath_Puva": [
+        "Physical_Intervention"
+      ],
+      "Battlefield_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Behavioral_Dietary_Intervention": [
+        "Dietary_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Bhakti_Yoga": [
+        "Psychological_Intervention"
+      ],
+      "Bibliotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Bikram_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Bioacoustics_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Bioenergetic_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Biofeedback": [
+        "Psychological_Intervention"
+      ],
+      "Biofield_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Biographical_Counseling": [
+        "Psychological_Intervention"
+      ],
+      "Biomagnetic_Pair_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Bioresonance_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Bird_Pecking_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Biyun_Qi_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Blood_Letting_Cupping": [
+        "Physical_Intervention"
+      ],
+      "Body_Psychotherapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Body_Scanning_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Bodywork_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Bowen_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Breath_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Breathing_Exercise": [
+        "Physical_Intervention"
+      ],
+      "Bright_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Buddhist_Reiki": [
+        "Physical_Intervention"
+      ],
+      "Buteyko_Breathing_Training": [
+        "Physical_Intervention"
+      ],
+      "Cake_Separated_Mild_Warm_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Cake_Separated_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Calming_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Canine_Assisted_Ambulation": [
+        "Physical_Intervention"
+      ],
+      "Canine_Assisted_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Canine_Visitation": [
+        "Psychological_Intervention"
+      ],
+      "Carbohydrate_Restricted_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Chair_Massage": [
+        "Physical_Intervention"
+      ],
+      "Chair_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Chakra_Balancing": [
+        "Physical_Intervention"
+      ],
+      "Chan_Mi_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Chinese_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Chinese_Calligraphy_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Chinese_Massage": [
+        "Physical_Intervention"
+      ],
+      "Chiropractic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Circling_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Circular_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Clay_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Climatotherapy": [
+        "Physical_Intervention"
+      ],
+      "Cognitive_Behavioral_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Cognitive_Hypnotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Cold_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Colon_Irrigation": [
+        "Physical_Intervention"
+      ],
+      "Color_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Compassion_Based_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Complementary_Dietary_Pattern_Intervention": [
+        "Dietary_Intervention"
+      ],
+      "Concentrative_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Cone_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Connective_Tissue_Massage": [
+        "Physical_Intervention"
+      ],
+      "Constitutional_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Contingent_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Continuous_Passive_Movement_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Cotton_Sheet_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Counseling": [
+        "Psychological_Intervention"
+      ],
+      "Cranial_Electrical_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Craniosacral_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Creative_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Creative_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Crude_Herb_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Cryo_Auriculotherapy": [
+        "Physical_Intervention"
+      ],
+      "Crystal_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Cupping_by_Dynamic_of_Application": [
+        "Physical_Intervention"
+      ],
+      "Cupping_by_Method_of_Suction": [
+        "Physical_Intervention"
+      ],
+      "Cupping_by_Skin_Integrity": [
+        "Physical_Intervention"
+      ],
+      "Cupping_by_Specialized_Accessory": [
+        "Physical_Intervention"
+      ],
+      "Dance_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Daoyin_Qi_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Dead_Sea_Climatotherapy": [
+        "Physical_Intervention"
+      ],
+      "Deep_Breathing": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Deep_Tissue_Massage": [
+        "Physical_Intervention"
+      ],
+      "Detox_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Dialectical_Behavior_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Dietary_Macronutrients_Therapy": [
+        "Dietary_Intervention"
+      ],
+      "Dietary_Supplementation": [
+        "Dietary_Intervention"
+      ],
+      "Dinner_Music_Intervention": [
+        "Psychological_Intervention"
+      ],
+      "Direct_Cone_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Direct_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Direct_Vibration": [
+        "Physical_Intervention"
+      ],
+      "Distance_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Dogbi_(st35)_and__Sulan_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Dolphin_Assisted_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Dongeui_Qigong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Drama_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Drug_Separated_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Dry_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Dry_Needling": [
+        "Physical_Intervention"
+      ],
+      "Du_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Dynamic_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Ear_Candle_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Ear_Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Electric_Heating_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Electroacupuncture": [
+        "Physical_Intervention"
+      ],
+      "Electrocrystal_Therapy": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Electromagnetic_Field_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Electromyography_Biofeedback": [
+        "Psychological_Intervention"
+      ],
+      "Electronic_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Electrotherapy": [
+        "Physical_Intervention"
+      ],
+      "Electrothermal_Bian_Stone_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Emmett_Technique": [
+        "Physical_Intervention"
+      ],
+      "Emotional_Freedom_Technique": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Energy_Based_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Environmental_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Equine_Assisted_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Esalen_Massage": [
+        "Physical_Intervention"
+      ],
+      "Esogetic_Colorpuncture": [
+        "Physical_Intervention"
+      ],
+      "Eurythmy_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Exercise_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Expressive_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "External_Focusing": [
+        "Psychological_Intervention"
+      ],
+      "External_Qi_Gong_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Face_Yoga": [
+        "Physical_Intervention"
+      ],
+      "Facial_Exercise": [
+        "Physical_Intervention"
+      ],
+      "Facial_Resistance_Training": [
+        "Physical_Intervention"
+      ],
+      "Faith_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Family_Psychotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Feldenkrais_Method": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Fiber_Optic_Phototherapy": [
+        "Physical_Intervention"
+      ],
+      "Fire_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Five_Animals_Qi_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Five_Element_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Flash_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Flotation_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Focal_Muscle_Vibration": [
+        "Physical_Intervention"
+      ],
+      "Focusing_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Foot_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Foot_Massage": [
+        "Physical_Intervention"
+      ],
+      "Foot_Reflexion_Massage": [
+        "Physical_Intervention"
+      ],
+      "Foot_Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Forest_Bathing": [
+        "Psychological_Intervention"
+      ],
+      "Forest_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Fu_Yang_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Garlic_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Gemstone_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Gerson_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Gestalt_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Ginger_Salt_Partitioned_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Ginger_Separated_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Gluten_Free_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Gonzalez_Regimen": [
+        "Dietary_Intervention",
+        "Natural_Product_Intervention"
+      ],
+      "Governor_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Grain_Shaped_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Grief_Counseling": [
+        "Psychological_Intervention"
+      ],
+      "Group_Chanting_and_Singing": [
+        "Psychological_Intervention"
+      ],
+      "Group_Drumming": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Guided_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Guolin_Qigong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Hand_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Hand_Massage": [
+        "Physical_Intervention"
+      ],
+      "Hand_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Hand_Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Hanging_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Hatha_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Healing_Touch": [
+        "Physical_Intervention"
+      ],
+      "Heart_Rate_Variability_Biofeedback": [
+        "Psychological_Intervention"
+      ],
+      "Heartfulness_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Heat_Sensitive_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Heat_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Hellerwork": [
+        "Physical_Intervention"
+      ],
+      "Herb_Cake_Seperated_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Herb_Partitioned_Spread_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Herbal_Moxa_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Herbal_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "High_Protein_Diet": [
+        "Dietary_Intervention"
+      ],
+      "High_Protein_Low_Carbohydrate_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Hippotherapy": [
+        "Physical_Intervention"
+      ],
+      "Horse_Riding_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Horticultural_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Hot_Compress_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Hot_Stone_Massage": [
+        "Physical_Intervention"
+      ],
+      "Hot_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Hua_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Humor_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Hydrotherapy": [
+        "Physical_Intervention"
+      ],
+      "Hypnoanalgesia": [
+        "Psychological_Intervention"
+      ],
+      "Hypnobirthing": [
+        "Psychological_Intervention"
+      ],
+      "Hypnotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Ice_Massage": [
+        "Physical_Intervention"
+      ],
+      "Imagery_Psychotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Improvisational_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Indian_Head_Massage": [
+        "Physical_Intervention"
+      ],
+      "Indirect_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Individualized_Music_Focused_Auditory_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Infant_Massage": [
+        "Physical_Intervention"
+      ],
+      "Infrared_Laser_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Instructional_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Integrative_Massage": [
+        "Physical_Intervention"
+      ],
+      "Interactive_Focusing_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Interactive_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Intermittent_Fasting": [
+        "Dietary_Intervention"
+      ],
+      "Internal_Focusing": [
+        "Psychological_Intervention"
+      ],
+      "Internal_Qigong_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Isolated_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Iyengar_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Jaladhara_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Japanese_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Japanese_Massage": [
+        "Physical_Intervention"
+      ],
+      "Japanese_Reiki": [
+        "Physical_Intervention"
+      ],
+      "Jin_Shin_Jyutsu": [
+        "Physical_Intervention"
+      ],
+      "Jinana_Yoga": [
+        "Psychological_Intervention"
+      ],
+      "Journaling": [
+        "Psychological_Intervention"
+      ],
+      "Karaoke_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Karma_Yoga": [
+        "Psychological_Intervention"
+      ],
+      "Ketogenic_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Korean_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Kripalu_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Ksheeradhara_Therapy": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Kundalini_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Laser_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Laser_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Laughter_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Laughter_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Laying_on_of_Hands_with_Prayer": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Lifestyle_Counseling": [
+        "Psychological_Intervention"
+      ],
+      "Light_Emitting_Diode_Phototherapy": [
+        "Physical_Intervention"
+      ],
+      "Live_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Local_Vibration_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Lomilomi_Massage": [
+        "Physical_Intervention"
+      ],
+      "Long_Snake_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Loving_Kindness_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Low_Frequency_Sound_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Low_Level_Laser_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Lullaby_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Lymphatic_Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Lyric_Analysis": [
+        "Psychological_Intervention"
+      ],
+      "Macrobiotic_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Magnetic_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Magnetic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Mandala_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mantra_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Manual_Lymphatic_Drainage": [
+        "Physical_Intervention"
+      ],
+      "Manual_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Marma_Massage_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Massage_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Massage_by_Body_Area": [
+        "Physical_Intervention"
+      ],
+      "Massage_by_Material_or_Tool": [
+        "Physical_Intervention"
+      ],
+      "Massage_by_Target_Population": [
+        "Physical_Intervention"
+      ],
+      "Massage_by_Therapeutic_Objective": [
+        "Physical_Intervention"
+      ],
+      "Massage_by_Traditional_System": [
+        "Physical_Intervention"
+      ],
+      "Medicated_Thread_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Meditation_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Meditative_Movement": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Mediterranean_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Mental_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Mesotherapy": [
+        "Physical_Intervention"
+      ],
+      "Microwave_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Mild_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Mind_Body_Energy_Based_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Mind_Body_Movement_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Mindful_Awareness_in_Body_Oriented_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Mindful_Eating": [
+        "Dietary_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Mindful_Self_Compassiion": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Awareness_Practice": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Alzheimer_Stimulation": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Blood_Pressure_Reduction": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Cognitive_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Exposure_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Intervention": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Relapse_Prevention": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Resilience_Training": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Based_Stress_Reduction_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Oriented_Recovery_Enhancement": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_Performance_Enhanncement_Awareness_and_Knowledge": [
+        "Psychological_Intervention"
+      ],
+      "Mindfulness_and_Acceptance_Based_Group_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mind–body_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Mineral_Supplementation": [
+        "Dietary_Intervention"
+      ],
+      "Mobilization": [
+        "Physical_Intervention"
+      ],
+      "Monkshood_Cake_Separated_Mild_Warm_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Morita_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Motor_Control_Exercise": [
+        "Physical_Intervention"
+      ],
+      "Movement_Education": [
+        "Physical_Intervention"
+      ],
+      "Movement_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Moving_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Moxa_Stick_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Moxibustion_by_Implementation_Tool": [
+        "Physical_Intervention"
+      ],
+      "Moxibustion_by_Medicinal_Material": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Moxibustion_by_Method_of_Heat_Transfer": [
+        "Physical_Intervention"
+      ],
+      "Moxibustion_by_Specific_Clinical_Protocol": [
+        "Physical_Intervention"
+      ],
+      "Musculoskeletal_Manipulation": [
+        "Physical_Intervention"
+      ],
+      "Music_Assisted_Progressive_Muscle_Relaxation": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Music_Assisted_Reframing": [
+        "Psychological_Intervention"
+      ],
+      "Music_Based_Imagery": [
+        "Psychological_Intervention"
+      ],
+      "Music_Exposure_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Music_Listening_Intervention": [
+        "Physical_Intervention"
+      ],
+      "Music_Reinforced_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Music_Video_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Musical_Game_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Musical_Motor_Feedback": [
+        "Physical_Intervention"
+      ],
+      "Musicokinetic_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Myofascial_Release_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Myotherapy": [
+        "Physical_Intervention"
+      ],
+      "Narrative_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Native_American_Faith_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Nature_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Needle_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Needle_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Neurocranial_Restructuring": [
+        "Physical_Intervention"
+      ],
+      "Neurofeedback": [
+        "Psychological_Intervention"
+      ],
+      "Neurolinguistic_Programming": [
+        "Psychological_Intervention"
+      ],
+      "Neuromuscular_Massage": [
+        "Physical_Intervention"
+      ],
+      "Noetic_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Nontargeted_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Ocular_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Oil_Massage": [
+        "Physical_Intervention"
+      ],
+      "Open_Monitoring_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Orff_Based_Music_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Oriental_Massage": [
+        "Physical_Intervention"
+      ],
+      "Orthomolecular_Therapy": [
+        "Dietary_Intervention"
+      ],
+      "Orthopedic_Manipulation": [
+        "Physical_Intervention"
+      ],
+      "Osteopathic_Manipulation": [
+        "Physical_Intervention"
+      ],
+      "Painting_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Paleolithic_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Partition_Bran_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Partition_Herb_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Percutaneous_Collagen_Induction": [
+        "Physical_Intervention"
+      ],
+      "Perineal_Massage": [
+        "Physical_Intervention"
+      ],
+      "Phenomenological_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Photodynamic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Phototherapy": [
+        "Physical_Intervention"
+      ],
+      "Phytoestrogen_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Phytotherapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Pilates_Based_Exercise": [
+        "Physical_Intervention"
+      ],
+      "Plant_Based_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Play_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Polarity_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Positive_Self_Talk": [
+        "Psychological_Intervention"
+      ],
+      "Positive_Thinking": [
+        "Psychological_Intervention"
+      ],
+      "Post_Hypnotic_Suggestion": [
+        "Psychological_Intervention"
+      ],
+      "Pottery_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Power_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Pranayama_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Prayer_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Progressive_Muscle_Relaxation": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Prolotherapy": [
+        "Physical_Intervention"
+      ],
+      "Prostate_Massage": [
+        "Physical_Intervention"
+      ],
+      "Psychodynamic_Group_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Psychoeducational_Horseback_Riding": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Psychoeducational_Intervention": [
+        "Psychological_Intervention"
+      ],
+      "Psychotherapy": [
+        "Psychological_Intervention"
+      ],
+      "Psychotherapy_Incorporating_Mindfulness": [
+        "Psychological_Intervention"
+      ],
+      "Psychotherapy_Incorporating_Spirituality": [
+        "Psychological_Intervention"
+      ],
+      "Pulsating_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Pulsed_Electromagnetic_Fields_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Putative_Energy_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Qi_Gong_Yangsheng": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Radiesthesia": [
+        "Physical_Intervention"
+      ],
+      "Radionics": [
+        "Physical_Intervention"
+      ],
+      "Raga_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Raja_Yoga": [
+        "Psychological_Intervention"
+      ],
+      "Raw_Food_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Receptive_Music_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Reflexology": [
+        "Physical_Intervention"
+      ],
+      "Reiki_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Relaxation_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Relaxing_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Reminiscence_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Reprocessing_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Retained_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Rhythmic_Sensory_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Rhythmical_Massage": [
+        "Physical_Intervention"
+      ],
+      "Rice_Sized_Direct_Moxa": [
+        "Physical_Intervention"
+      ],
+      "Role_Playing": [
+        "Psychological_Intervention"
+      ],
+      "Rolfing_Theray": [
+        "Physical_Intervention"
+      ],
+      "Roll_Stretch_Massage": [
+        "Physical_Intervention"
+      ],
+      "Sahaj_Yoga": [
+        "Psychological_Intervention"
+      ],
+      "Sauna_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Scent_Therapy": [
+        "Natural_Product_Intervention"
+      ],
+      "Self_Hypnosis": [
+        "Psychological_Intervention"
+      ],
+      "Sensory_Feedback": [
+        "Physical_Intervention"
+      ],
+      "Sensory_Stimulation_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Shamanic_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Shirodhara_Therapy": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Silicone_Oil_Massage": [
+        "Physical_Intervention"
+      ],
+      "Single_Point_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Sivananda_Yoga": [
+        "Dietary_Intervention",
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Skin_Rehabilitation_Massage_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Snake_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Soak_in_Hot_Spring": [
+        "Physical_Intervention"
+      ],
+      "Soft_Tissue_Massage": [
+        "Physical_Intervention"
+      ],
+      "Soft_Tissue_Mobilization": [
+        "Physical_Intervention"
+      ],
+      "Soft_Tissue_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Solar_Term_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Sophrology": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Sound_Healing": [
+        "Physical_Intervention"
+      ],
+      "Sound_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Spa_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Speleotherapy": [
+        "Physical_Intervention"
+      ],
+      "Spinal_Manipulation": [
+        "Physical_Intervention"
+      ],
+      "Spiritual_Healing": [
+        "Psychological_Intervention"
+      ],
+      "Spiritual_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Sport_Massage": [
+        "Physical_Intervention"
+      ],
+      "Stress_Management_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Substance_Partitioned_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Sudarshana_Kriya_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Suggestion_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Support_Group_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Suspended_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Swedish_Massage": [
+        "Physical_Intervention"
+      ],
+      "Tai_Chi": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Tantra_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Targeted_Light_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Thai_Massage": [
+        "Physical_Intervention"
+      ],
+      "Thakradhara_Therapy": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Therapeutic_Horseback_Riding": [
+        "Physical_Intervention"
+      ],
+      "Therapeutic_Massage": [
+        "Physical_Intervention"
+      ],
+      "Therapeutic_Touch": [
+        "Physical_Intervention"
+      ],
+      "Theravada_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Thermal_Bath": [
+        "Physical_Intervention"
+      ],
+      "Thermal_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Thin_Cotton_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Thought_Field_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Thunder_Fire_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Thyladhara_Therapy": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ],
+      "Tibetan_Massage": [
+        "Physical_Intervention"
+      ],
+      "Tibetan_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Tortoise_Shell_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Trager_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Transcendental_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Transcranial_Magnetic_Stimulation": [
+        "Physical_Intervention"
+      ],
+      "Transcutaneous_Electrical_Acustimulation": [
+        "Physical_Intervention"
+      ],
+      "Trigger_Point_Acupuncture": [
+        "Physical_Intervention"
+      ],
+      "Trigger_Point_Massage": [
+        "Physical_Intervention"
+      ],
+      "Trigger_Point_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Ultrasonic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Ultraviolet_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Vegan_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Vegetarian_Diet": [
+        "Dietary_Intervention"
+      ],
+      "Veritable_Energy_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Vibration_Foam_Rolling": [
+        "Physical_Intervention"
+      ],
+      "Vibration_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Vibroacoustic_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Vinyasa_Yoga": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Vipassana_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Visual_Art_Therapy": [
+        "Psychological_Intervention"
+      ],
+      "Vitamin_Supplementation": [
+        "Dietary_Intervention"
+      ],
+      "Walking_Meditation": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Warm_Needle_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Warming_Cup_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Warming_Moxibustion": [
+        "Physical_Intervention"
+      ],
+      "Water_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Western_Massage": [
+        "Physical_Intervention"
+      ],
+      "Wet_Cupping_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Whole_Body_Vibration_Exercise": [
+        "Physical_Intervention"
+      ],
+      "Whole_Body_Vibration_Therapy": [
+        "Physical_Intervention"
+      ],
+      "Yi_Jia_Gong": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Yoga_Nidra": [
+        "Psychological_Intervention"
+      ],
+      "Yoga_Therapy": [
+        "Physical_Intervention",
+        "Psychological_Intervention"
+      ],
+      "Zen_Meditation": [
+        "Psychological_Intervention"
+      ],
+      "Zero_Balancing": [
+        "Physical_Intervention"
+      ],
+      "Zhuang_Medicated_Thread_Moxibustion": [
+        "Natural_Product_Intervention",
+        "Physical_Intervention"
+      ]
+    }
+  ],
+  "low_confidence_for_review": [],
+  "mind_body_concepts": [
+    "Abbreviated_Muscle_Relaxation_Therapy",
+    "Alexander_Technique",
+    "Ashtanga_Yoga",
+    "Baduanjin_Qi_Gong",
+    "Bikram_Yoga",
+    "Bioenergetic_Therapy",
+    "Biyun_Qi_Gong",
+    "Body_Psychotherapy",
+    "Chair_Yoga",
+    "Chan_Mi_Gong",
+    "Chinese_Calligraphy_Therapy",
+    "Circular_Yoga",
+    "Color_Therapy",
+    "Creative_Yoga",
+    "Daoyin_Qi_Gong",
+    "Deep_Breathing",
+    "Dolphin_Assisted_Therapy",
+    "Dongeui_Qigong",
+    "Emotional_Freedom_Technique",
+    "Equine_Assisted_Therapy",
+    "External_Qi_Gong_Therapy",
+    "Feldenkrais_Method",
+    "Five_Animals_Qi_Gong",
+    "Group_Drumming",
+    "Guolin_Qigong",
+    "Hatha_Yoga",
+    "Hot_Yoga",
+    "Hua_Gong",
+    "Internal_Qigong_Therapy",
+    "Iyengar_Yoga",
+    "Kripalu_Yoga",
+    "Kundalini_Yoga",
+    "Laughter_Therapy",
+    "Laughter_Yoga",
+    "Laying_on_of_Hands_with_Prayer",
+    "Meditative_Movement",
+    "Mind_Body_Energy_Based_Therapy",
+    "Mind_Body_Movement_Therapy",
+    "Mindful_Awareness_in_Body_Oriented_Therapy",
+    "Music_Assisted_Progressive_Muscle_Relaxation",
+    "Musicokinetic_Therapy",
+    "Orff_Based_Music_Therapy",
+    "Pottery_Therapy",
+    "Power_Yoga",
+    "Pranayama_Yoga",
+    "Progressive_Muscle_Relaxation",
+    "Psychoeducational_Horseback_Riding",
+    "Qi_Gong_Yangsheng",
+    "Relaxing_Yoga",
+    "Sivananda_Yoga",
+    "Sophrology",
+    "Sudarshana_Kriya_Yoga",
+    "Tai_Chi",
+    "Tantra_Yoga",
+    "Thought_Field_Therapy",
+    "Tibetan_Yoga",
+    "Vinyasa_Yoga",
+    "Walking_Meditation",
+    "Yi_Jia_Gong",
+    "Yoga_Therapy"
+  ],
+  "metrics_seeds": {
+    "subset_accuracy": 0.787,
+    "hamming_loss": 0.063,
+    "micro_f1": 0.891,
+    "macro_f1": 0.808,
+    "weighted_f1": 0.907,
+    "example_P": 0.917,
+    "example_R": 0.917,
+    "example_F1": 0.902,
+    "per_label": {
+      "Dietary_Intervention": {
+        "P": 1.0,
+        "R": 1.0,
+        "F1": 1.0
+      },
+      "Natural_Product_Intervention": {
+        "P": 0.267,
+        "R": 1.0,
+        "F1": 0.421
+      },
+      "Physical_Intervention": {
+        "P": 0.943,
+        "R": 0.865,
+        "F1": 0.902
+      },
+      "Psychological_Intervention": {
+        "P": 0.936,
+        "R": 0.88,
+        "F1": 0.907
+      }
+    },
+    "per_run_mean_std": {},
+    "n_concepts": 150,
+    "mindbody": {
+      "P": 0.688,
+      "R": 0.458,
+      "F1": 0.55,
+      "pred_count": 16,
+      "gt_count": 24
+    }
+  },
+  "metrics_all": {
+    "subset_accuracy": 0.773,
+    "hamming_loss": 0.062,
+    "micro_f1": 0.897,
+    "macro_f1": 0.756,
+    "weighted_f1": 0.915,
+    "example_P": 0.942,
+    "example_R": 0.912,
+    "example_F1": 0.91,
+    "per_label": {
+      "Dietary_Intervention": {
+        "P": 0.962,
+        "R": 1.0,
+        "F1": 0.98
+      },
+      "Natural_Product_Intervention": {
+        "P": 0.111,
+        "R": 1.0,
+        "F1": 0.2
+      },
+      "Physical_Intervention": {
+        "P": 0.968,
+        "R": 0.853,
+        "F1": 0.907
+      },
+      "Psychological_Intervention": {
+        "P": 0.979,
+        "R": 0.897,
+        "F1": 0.936
+      }
+    },
+    "per_run_mean_std": {},
+    "n_concepts": 510,
+    "mindbody": {
+      "P": 0.867,
+      "R": 0.433,
+      "F1": 0.578,
+      "pred_count": 60,
+      "gt_count": 120
+    }
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "seeds": {
+    "n_concepts": 122,
+    "gpt-5.5_alone": {
+      "n": 122,
+      "subset_acc": 0.77,
+      "micro_f1": 0.82,
+      "macro_f1": 0.576,
+      "example_F1": 0.848,
+      "tag": "gpt-5.5"
+    },
+    "qwen3_alone": {
+      "n": 122,
+      "subset_acc": 0.721,
+      "micro_f1": 0.782,
+      "macro_f1": 0.553,
+      "example_F1": 0.804,
+      "tag": "qwen3"
+    },
+    "agreed": {
+      "n": 107,
+      "subset_acc": 0.813,
+      "micro_f1": 0.866,
+      "macro_f1": 0.603,
+      "example_F1": 0.889,
+      "tag": "agreed"
+    },
+    "disagreed_A": {
+      "n": 15,
+      "subset_acc": 0.467,
+      "micro_f1": 0.514,
+      "macro_f1": 0.103,
+      "example_F1": 0.556,
+      "tag": "disagreed(gpt-5.5)"
+    },
+    "disagreed_B": {
+      "n": 15,
+      "subset_acc": 0.067,
+      "micro_f1": 0.229,
+      "macro_f1": 0.074,
+      "example_F1": 0.2,
+      "tag": "disagreed(qwen3)"
+    },
+    "agreement_rate": 0.877,
+    "expert_review_fraction": 0.123,
+    "disagreement_list": [
+      {
+        "concept": "Autosuggestion",
+        "gpt-5.5": [
+          "Positive_Thinking"
+        ],
+        "qwen3": [
+          "Psychotherapy"
+        ],
+        "gold": [
+          "Hypnotherapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Balneophototherapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy",
+          "Hydrotherapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy",
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.33
+      },
+      {
+        "concept": "Bhakti_Yoga",
+        "gpt-5.5": [
+          "Spiritual_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Buddhist_Reiki",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Energy_Based_Therapy",
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Calming_Music_Therapy",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Exercise_Therapy",
+        "gpt-5.5": [
+          "Movement_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Movement_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Facial_Resistance_Training",
+        "gpt-5.5": [
+          "Movement_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Movement_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Journaling",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Counseling"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Karma_Yoga",
+        "gpt-5.5": [
+          "Spiritual_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Mindfulness_Based_Stress_Reduction_Meditation",
+        "gpt-5.5": [
+          "Stress_Management_Therapy"
+        ],
+        "qwen3": [
+          "Mindfulness_Based_Intervention",
+          "Stress_Management_Therapy"
+        ],
+        "gold": [
+          "Stress_Management_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Music_Based_Imagery",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Meditation_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Sauna_Therapy",
+        "gpt-5.5": [
+          "Spa_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Sudarshana_Kriya_Yoga",
+        "gpt-5.5": [
+          "Breathing_Exercise"
+        ],
+        "qwen3": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Warming_Cup_Moxibustion",
+        "gpt-5.5": [
+          "Cupping_Therapy",
+          "Moxibustion"
+        ],
+        "qwen3": [
+          "Moxibustion"
+        ],
+        "gold": [
+          "Moxibustion"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Water_Cupping_Therapy",
+        "gpt-5.5": [
+          "Cupping_Therapy"
+        ],
+        "qwen3": [
+          "Cupping_Therapy",
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Cupping_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      }
+    ],
+    "mean_jaccard": 0.896
+  },
+  "all": {
+    "n_concepts": 481,
+    "gpt-5.5_alone": {
+      "n": 481,
+      "subset_acc": 0.784,
+      "micro_f1": 0.827,
+      "macro_f1": 0.859,
+      "example_F1": 0.862,
+      "tag": "gpt-5.5"
+    },
+    "qwen3_alone": {
+      "n": 481,
+      "subset_acc": 0.74,
+      "micro_f1": 0.797,
+      "macro_f1": 0.87,
+      "example_F1": 0.823,
+      "tag": "qwen3"
+    },
+    "agreed": {
+      "n": 423,
+      "subset_acc": 0.825,
+      "micro_f1": 0.872,
+      "macro_f1": 0.912,
+      "example_F1": 0.902,
+      "tag": "agreed"
+    },
+    "disagreed_A": {
+      "n": 58,
+      "subset_acc": 0.483,
+      "micro_f1": 0.526,
+      "macro_f1": 0.147,
+      "example_F1": 0.57,
+      "tag": "disagreed(gpt-5.5)"
+    },
+    "disagreed_B": {
+      "n": 58,
+      "subset_acc": 0.121,
+      "micro_f1": 0.284,
+      "macro_f1": 0.121,
+      "example_F1": 0.251,
+      "tag": "disagreed(qwen3)"
+    },
+    "agreement_rate": 0.879,
+    "expert_review_fraction": 0.121,
+    "disagreement_list": [
+      {
+        "concept": "Acu_Reflexology",
+        "gpt-5.5": [
+          "Acustimulation_Therapy",
+          "Bodywork_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Bodywork_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Aromatherapy_Massage",
+        "gpt-5.5": [
+          "Bodywork_Therapy",
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Bodywork_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Autosuggestion",
+        "gpt-5.5": [
+          "Positive_Thinking"
+        ],
+        "qwen3": [
+          "Psychotherapy"
+        ],
+        "gold": [
+          "Hypnotherapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Balneophototherapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy",
+          "Hydrotherapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy",
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.33
+      },
+      {
+        "concept": "Bath_Puva",
+        "gpt-5.5": [
+          "Energy_Based_Therapy",
+          "Hydrotherapy"
+        ],
+        "qwen3": [
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Bhakti_Yoga",
+        "gpt-5.5": [
+          "Spiritual_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Bright_Light_Therapy",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Buddhist_Reiki",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Energy_Based_Therapy",
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Calming_Music_Therapy",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Chan_Mi_Gong",
+        "gpt-5.5": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy",
+          "Mind_Body_Energy_Based_Therapy",
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Cranial_Electrical_Stimulation",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Acustimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Direct_Vibration",
+        "gpt-5.5": [
+          "Bodywork_Therapy"
+        ],
+        "qwen3": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Distance_Healing",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Spiritual_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Drama_Therapy",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Expressive_Therapy",
+          "Psychotherapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Ear_Reflexology",
+        "gpt-5.5": [
+          "Auriculotherapy",
+          "Bodywork_Therapy"
+        ],
+        "qwen3": [
+          "Auriculotherapy"
+        ],
+        "gold": [
+          "Bodywork_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Equine_Assisted_Therapy",
+        "gpt-5.5": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "qwen3": [
+          "Expressive_Therapy"
+        ],
+        "gold": [
+          "Animal_Assisted_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Esogetic_Colorpuncture",
+        "gpt-5.5": [
+          "Acustimulation_Therapy",
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Exercise_Therapy",
+        "gpt-5.5": [
+          "Movement_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Movement_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Facial_Exercise",
+        "gpt-5.5": [
+          "Movement_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Movement_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Facial_Resistance_Training",
+        "gpt-5.5": [
+          "Movement_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Movement_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Fiber_Optic_Phototherapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Focal_Muscle_Vibration",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Acustimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Heat_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Ice_Massage",
+        "gpt-5.5": [
+          "Bodywork_Therapy"
+        ],
+        "qwen3": [
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Bodywork_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Jin_Shin_Jyutsu",
+        "gpt-5.5": [
+          "Acustimulation_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Jinana_Yoga",
+        "gpt-5.5": [
+          "Meditation_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Journaling",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Counseling"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Karma_Yoga",
+        "gpt-5.5": [
+          "Spiritual_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Kundalini_Yoga",
+        "gpt-5.5": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Laughter_Yoga",
+        "gpt-5.5": [
+          "Breathing_Exercise"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Laughter_Therapy",
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Live_Music_Therapy",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Local_Vibration_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Magnetic_Cupping_Therapy",
+        "gpt-5.5": [
+          "Cupping_Therapy"
+        ],
+        "qwen3": [
+          "Cupping_Therapy",
+          "Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Cupping_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Mindfulness_Based_Stress_Reduction_Meditation",
+        "gpt-5.5": [
+          "Stress_Management_Therapy"
+        ],
+        "qwen3": [
+          "Mindfulness_Based_Intervention",
+          "Stress_Management_Therapy"
+        ],
+        "gold": [
+          "Stress_Management_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Music_Based_Imagery",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Meditation_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Music_Video_Therapy",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Expressive_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Musical_Game_Therapy",
+        "gpt-5.5": [
+          "Expressive_Therapy",
+          "Play_Therapy"
+        ],
+        "qwen3": [
+          "Expressive_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Musicokinetic_Therapy",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Nontargeted_Light_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Photodynamic_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Phototherapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Polarity_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Bodywork_Therapy",
+          "Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Pranayama_Yoga",
+        "gpt-5.5": [
+          "Breathing_Exercise"
+        ],
+        "qwen3": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Psychoeducational_Horseback_Riding",
+        "gpt-5.5": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "qwen3": [
+          "Expressive_Therapy"
+        ],
+        "gold": [
+          "Animal_Assisted_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Psychotherapy_Incorporating_Spirituality",
+        "gpt-5.5": [
+          "Psychotherapy"
+        ],
+        "qwen3": [
+          "Psychotherapy",
+          "Spiritual_Therapy"
+        ],
+        "gold": [
+          "Psychotherapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Raga_Therapy",
+        "gpt-5.5": [
+          "Expressive_Therapy"
+        ],
+        "qwen3": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "gold": [
+          "Expressive_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Raja_Yoga",
+        "gpt-5.5": [
+          "Meditation_Therapy"
+        ],
+        "qwen3": [],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Sauna_Therapy",
+        "gpt-5.5": [
+          "Spa_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Sudarshana_Kriya_Yoga",
+        "gpt-5.5": [
+          "Breathing_Exercise"
+        ],
+        "qwen3": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Suggestion_Therapy",
+        "gpt-5.5": [
+          "Psychotherapy"
+        ],
+        "qwen3": [
+          "Hypnotherapy",
+          "Psychotherapy"
+        ],
+        "gold": [
+          "Hypnotherapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Tantra_Yoga",
+        "gpt-5.5": [
+          "Mind_Body_Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Mind_Body_Movement_Therapy"
+        ],
+        "gold": [
+          "Mind_Body_Movement_Therapy",
+          "Movement_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Targeted_Light_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Thermal_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Ultraviolet_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Environmental_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Vibration_Therapy",
+        "gpt-5.5": [
+          "Sensory_Stimulation_Therapy"
+        ],
+        "qwen3": [
+          "Energy_Based_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Warming_Cup_Moxibustion",
+        "gpt-5.5": [
+          "Cupping_Therapy",
+          "Moxibustion"
+        ],
+        "qwen3": [
+          "Moxibustion"
+        ],
+        "gold": [
+          "Moxibustion"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Water_Cupping_Therapy",
+        "gpt-5.5": [
+          "Cupping_Therapy"
+        ],
+        "qwen3": [
+          "Cupping_Therapy",
+          "Hydrotherapy"
+        ],
+        "gold": [
+          "Cupping_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Whole_Body_Vibration_Therapy",
+        "gpt-5.5": [
+          "Energy_Based_Therapy"
+        ],
+        "qwen3": [
+          "Movement_Therapy"
+        ],
+        "gold": [
+          "Energy_Based_Therapy"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      }
+    ],
+    "mean_jaccard": 0.895
+  },
+  "models": {
+    "A": "gpt-5.5",
+    "B": "qwen3",
+    "file_a": "build_gpt.json",
+    "file_b": "build_qwen.json"
+  }
+}

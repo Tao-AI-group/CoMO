@@ -1,0 +1,1467 @@
+{
+  "seeds": {
+    "n_concepts": 150,
+    "gpt-5.5_alone": {
+      "n": 150,
+      "subset_acc": 0.787,
+      "micro_f1": 0.891,
+      "macro_f1": 0.808,
+      "example_F1": 0.902,
+      "tag": "gpt-5.5"
+    },
+    "qwen3_alone": {
+      "n": 150,
+      "subset_acc": 0.753,
+      "micro_f1": 0.874,
+      "macro_f1": 0.776,
+      "example_F1": 0.882,
+      "tag": "qwen3"
+    },
+    "agreed": {
+      "n": 131,
+      "subset_acc": 0.809,
+      "micro_f1": 0.898,
+      "macro_f1": 0.818,
+      "example_F1": 0.906,
+      "tag": "agreed"
+    },
+    "disagreed_A": {
+      "n": 19,
+      "subset_acc": 0.632,
+      "micro_f1": 0.851,
+      "macro_f1": 0.62,
+      "example_F1": 0.877,
+      "tag": "disagreed(gpt-5.5)"
+    },
+    "disagreed_B": {
+      "n": 19,
+      "subset_acc": 0.368,
+      "micro_f1": 0.741,
+      "macro_f1": 0.645,
+      "example_F1": 0.719,
+      "tag": "disagreed(qwen3)"
+    },
+    "agreement_rate": 0.873,
+    "expert_review_fraction": 0.127,
+    "disagreement_list": [
+      {
+        "concept": "Antioxidant_Therapy",
+        "gpt-5.5": [
+          "Dietary_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Behavioral_Dietary_Intervention",
+        "gpt-5.5": [
+          "Dietary_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Dietary_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Buddhist_Reiki",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Buteyko_Breathing_Training",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Color_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Direct_Cone_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Eurythmy_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Laughter_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Laying_on_of_Hands_with_Prayer",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Mesotherapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Musical_Motor_Feedback",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Orthomolecular_Therapy",
+        "gpt-5.5": [
+          "Dietary_Intervention"
+        ],
+        "qwen3": [
+          "Dietary_Intervention",
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Sudarshana_Kriya_Yoga",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thunder_Fire_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Tortoise_Shell_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Trager_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Warming_Cup_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Warming_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      }
+    ],
+    "mean_jaccard": 0.93
+  },
+  "all": {
+    "n_concepts": 510,
+    "gpt-5.5_alone": {
+      "n": 510,
+      "subset_acc": 0.773,
+      "micro_f1": 0.897,
+      "macro_f1": 0.756,
+      "example_F1": 0.91,
+      "tag": "gpt-5.5"
+    },
+    "qwen3_alone": {
+      "n": 510,
+      "subset_acc": 0.753,
+      "micro_f1": 0.888,
+      "macro_f1": 0.746,
+      "example_F1": 0.899,
+      "tag": "qwen3"
+    },
+    "agreed": {
+      "n": 445,
+      "subset_acc": 0.807,
+      "micro_f1": 0.91,
+      "macro_f1": 0.78,
+      "example_F1": 0.922,
+      "tag": "agreed"
+    },
+    "disagreed_A": {
+      "n": 65,
+      "subset_acc": 0.538,
+      "micro_f1": 0.816,
+      "macro_f1": 0.627,
+      "example_F1": 0.828,
+      "tag": "disagreed(gpt-5.5)"
+    },
+    "disagreed_B": {
+      "n": 65,
+      "subset_acc": 0.385,
+      "micro_f1": 0.764,
+      "macro_f1": 0.629,
+      "example_F1": 0.744,
+      "tag": "disagreed(qwen3)"
+    },
+    "agreement_rate": 0.873,
+    "expert_review_fraction": 0.127,
+    "disagreement_list": [
+      {
+        "concept": "Active_Music_Therapy",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Animal_Visitation",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Antioxidant_Therapy",
+        "gpt-5.5": [
+          "Dietary_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Behavioral_Dietary_Intervention",
+        "gpt-5.5": [
+          "Dietary_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Dietary_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Buddhist_Reiki",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Buteyko_Breathing_Training",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Canine_Assisted_Therapy",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Canine_Visitation",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Chakra_Balancing",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Chinese_Calligraphy_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Circling_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Clay_Art_Therapy",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Color_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Cone_Moxibustion",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Dance_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Deep_Breathing",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Direct_Cone_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Electrocrystal_Therapy",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Electromyography_Biofeedback",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Eurythmy_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Face_Yoga",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Forest_Bathing",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Forest_Therapy",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Fu_Yang_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Grain_Shaped_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Hand_Moxibustion",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Healing_Touch",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Horse_Riding_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Horticultural_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Hot_Yoga",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Individualized_Music_Focused_Auditory_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Jaladhara_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Japanese_Reiki",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Ksheeradhara_Therapy",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Laughter_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Laying_on_of_Hands_with_Prayer",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Mesotherapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Moxa_Stick_Moxibustion",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Music_Exposure_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Music_Listening_Intervention",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.0
+      },
+      {
+        "concept": "Musical_Motor_Feedback",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Nature_Therapy",
+        "gpt-5.5": [
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Orff_Based_Music_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Orthomolecular_Therapy",
+        "gpt-5.5": [
+          "Dietary_Intervention"
+        ],
+        "qwen3": [
+          "Dietary_Intervention",
+          "Natural_Product_Intervention"
+        ],
+        "gold": [
+          "Dietary_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Rice_Sized_Direct_Moxa",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Sivananda_Yoga",
+        "gpt-5.5": [
+          "Dietary_Intervention",
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.67
+      },
+      {
+        "concept": "Snake_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Solar_Term_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Sophrology",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Sound_Healing",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Substance_Partitioned_Moxibustion",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Sudarshana_Kriya_Yoga",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Suspended_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thakradhara_Therapy",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Therapeutic_Horseback_Riding",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Psychological_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thin_Cotton_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thought_Field_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "qwen3": [
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thunder_Fire_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Thyladhara_Therapy",
+        "gpt-5.5": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": false,
+        "b_correct": true,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Tortoise_Shell_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Trager_Therapy",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Physical_Intervention",
+          "Psychological_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Warm_Needle_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Warming_Cup_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      },
+      {
+        "concept": "Warming_Moxibustion",
+        "gpt-5.5": [
+          "Physical_Intervention"
+        ],
+        "qwen3": [
+          "Natural_Product_Intervention",
+          "Physical_Intervention"
+        ],
+        "gold": [
+          "Physical_Intervention"
+        ],
+        "a_correct": true,
+        "b_correct": false,
+        "jaccard": 0.5
+      }
+    ],
+    "mean_jaccard": 0.929
+  },
+  "models": {
+    "A": "gpt-5.5",
+    "B": "qwen3",
+    "file_a": "l1_gpt.json",
+    "file_b": "l1_qwen.json"
+  }
+}

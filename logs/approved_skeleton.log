@@ -1,0 +1,25 @@
+nohup: ignoring input
+=== REAL L2 skeleton (from ontology) ===
+  Physical_Intervention         : 19 L2 categories
+  Psychological_Intervention    : 16 L2 categories
+  Mind-body_Therapy             : 13 L2 categories
+
+=== ACCEPTANCE vs proposed (proposed_skeleton.json) ===
+  branch                       proposed accepted rejected  omitted  accept%
+  Physical_Intervention              17       13        4        6    0.765
+  Psychological_Intervention          9        8        1        8    0.889
+  Mind-body_Therapy                  15        4       11        9    0.267
+  TOTAL                              41       25       16       23    0.610
+
+  Acceptance rate = 25/41 = 61.0%  (proposed parents the expert keeps)
+  Omission rate   = 23/48 = 47.9%  (expert L2 the LLM missed)
+
+  NOTE: this treats the owl's L2 as the expert skeleton. Real expert review may accept some 'rejected' ones as reasonable, so this acceptance rate is a LOWER BOUND.
+
+  wrote acceptance_result.json
+=== REAL L2 skeleton (from ontology) ===
+  Physical_Intervention         : 19 L2 categories
+  Psychological_Intervention    : 16 L2 categories
+  Mind-body_Therapy             : 13 L2 categories
+
+wrote approved_skeleton.json with 48 L2 parents (real expert skeleton from owl)

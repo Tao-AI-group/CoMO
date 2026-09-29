@@ -15,6 +15,12 @@ The overview of CoMO development and evaluation framework is illustrated below.
 </p>
 
 # Ontology Development
+CoMO was developed iteratively across hierarchical levels using a large language model (LLM)-assisted, human-in-the-loop framework. At each level, an LLM (GPT 5.5) identified candidate hypernym categories, which were reviewed and validated by subject matter experts. Two LLMs (GPT 5.5 and Qwen3-225B-A22B-Instruct) then independently classified concepts into the validated categories, with disagreements routed for expert adjudication.
+
+<p align="center">
+  <img src="Figures/assisted_ontology_construction_framework.png" alt="LLM assisted ontology construction Framework" width="600">
+</p>
+
 
 # Ontology Evaluation
 

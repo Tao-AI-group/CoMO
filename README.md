@@ -23,6 +23,10 @@ CoMO was developed iteratively across hierarchical levels using a large language
 
 
 # Ontology Evaluation
+CoMO was evaluated using complementary expert- and corpus-based approaches. Experts assessed semantic validity using Hootation[^1], which verbalizes ontology axioms as natural-language statements to facilitate expert review. In parallel, ontology coverage and semantic coherence were assessed using an automated evaluation pipeline previously developed for BSO-AD[^2] and applied to a large corpus of PubMed abstracts.
+
+[^1]: Amith, M. et al. Expressing Biomedical Ontologies in Natural Language for Expert Evaluation. Stud. Health Technol. Inform. 245, 838–842 (2017). 
+[^2]: Li, H. et al. BSO-AD: An Ontology for Representing and Harmonizing Behavioral Social Knowledge in ADRD. 2026.03.30.26349756 Preprint at https://doi.org/10.64898/2026.03.30.26349756 (2026). 
 
 # A Quick Start
 

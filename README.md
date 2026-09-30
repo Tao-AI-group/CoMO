@@ -28,7 +28,9 @@ CoMO was evaluated using complementary expert- and corpus-based approaches. Expe
 [^1]: Amith, M. et al. Expressing Biomedical Ontologies in Natural Language for Expert Evaluation. Stud. Health Technol. Inform. 245, 838–842 (2017). 
 [^2]: Li, H. et al. BSO-AD: An Ontology for Representing and Harmonizing Behavioral Social Knowledge in ADRD. 2026.03.30.26349756 Preprint at https://doi.org/10.64898/2026.03.30.26349756 (2026). 
 
-# A Quick Start
+# Quick Start
+
+## Set up
 Create and activate a Python environment:
 
 ```bash
@@ -36,6 +38,33 @@ conda create -n como_env python=3.10
 conda activate como_env
 pip install -r requirements.txt
 ```
+### LLM backends
+
+| Model | Backend | Setup |
+|---|---|---|
+| GPT-5.5 | Mayo Clinic Azure OpenAI gateway (`--mayo`) | Create a `.env` file with `APIGEEX_CLIENT_ID` and `APIGEEX_SECRET_ID`, and set `ENV_FILE` to its path. This gateway is institution-internal. |
+| Qwen3-235B-A22B-Instruct-2507 | Any OpenAI-compatible server, e.g. vLLM | Start the server before running Qwen steps (see below). |
+
+Serving Qwen3 with vLLM:
+
+```bash
+vllm serve Qwen/Qwen3-235B-A22B-Instruct-2507 --port 8000 --tensor-parallel-size 8
+```
+
+## Run
+Run the scripts in order with `bash <script>`. GPT and Qwen steps can run
+on different machines.
+
+| Step | Script | Output |
+|---|---|---|
+| 0 | `step0_generate_150_evaluation_seed.sh` | `seed_concepts_150.json` |
+| 1 | `step1_gpt_job_stage1.sh` | `l1_gpt.json` |
+| 1 | `step1_qwen_job_stage1.sh` | `l1_qwen.json` |
+| 1 | `step1_merge_gpt_qwen_stage1_results.sh` | `l1_assignment.json` |
+| 2 | `step2_run_stage2.sh` | `proposed_skeleton.json`, `approved_skeleton.json` |
+| 3 | `step3_run_stage3_gpt.sh` | `build_gpt.json` |
+| 3 | `step3_run_stage3_qwen.sh` | `build_qwen.json` |
+| 3 | `step3_run_stage3_gpt_qwen_check.sh` | `cross_*.json`, `l1/l2_review_sheet.csv` |
 
 # Citation
 
